@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=CONV_IN Pin=C12-2
+Removed Pin From Net: NetName=CONV_IN Pin=C13-2
+Removed Pin From Net: NetName=CONV_IN Pin=C14-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C15-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C16-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C17-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=+5_LED Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=DZ2-1
+Removed Pin From Net: NetName=+5_LED Pin=DZ2-2
+Removed Pin From Net: NetName=+5 Pin=F2-1
+Removed Pin From Net: NetName=+5_LED Pin=F2-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R1-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U13-4
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U13-5
+Removed Pin From Net: NetName=CONV_IN Pin=U13-10
+Removed Pin From Net: NetName=CONV_IN Pin=U13-11
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet1 Member=DZ2
+Removed Member From Class: ClassName=Sheet1 Member=F2
+Added Pin To Net: NetName=+5_LED Pin=C15-2
+Added Pin To Net: NetName=+5_LED Pin=C16-2
+Added Pin To Net: NetName=+5_LED Pin=C17-2
+Added Pin To Net: NetName=+5_LED Pin=C18-2
+Added Pin To Net: NetName=+5_LED Pin=R1-2
+Added Pin To Net: NetName=+5_LED Pin=U13-4
+Added Pin To Net: NetName=+5_LED Pin=U13-5
+Change Net Name : Old Net Name=+5_LED New Net Name=+3.7_LED
+Added Pin To Net: NetName=LED_POWER Pin=C12-2
+Added Pin To Net: NetName=LED_POWER Pin=C13-2
+Added Pin To Net: NetName=LED_POWER Pin=C14-2
+Added Pin To Net: NetName=LED_POWER Pin=U13-10
+Added Pin To Net: NetName=LED_POWER Pin=U13-11
+Added Net: Name=LED_POWER

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Module14_CS Pin=JP_Module14-10
+Removed Pin From Net: NetName=Module15_CS Pin=JP_Module15-10
+Change Component Designator: OldDesignator=JP_Module14 NewDesignator=JP_Module15
+Change Component Designator: OldDesignator=JP_Module15 NewDesignator=JP_Module114
+Added Pin To Net: NetName=Module15_CS Pin=JP_Module15-10
+Added Pin To Net: NetName=Module14_CS Pin=JP_Module114-10

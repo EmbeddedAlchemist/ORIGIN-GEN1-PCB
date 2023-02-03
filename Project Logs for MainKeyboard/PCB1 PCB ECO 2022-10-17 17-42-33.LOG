@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module11
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module12
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module13
+Change Component Designator: OldDesignator=JP? NewDesignator=JP_Module14
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module1 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module2 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module3 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module4 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module5 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module6 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module7 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module8 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module10 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module11 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module12 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module13 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module14 FPC1.0-16P

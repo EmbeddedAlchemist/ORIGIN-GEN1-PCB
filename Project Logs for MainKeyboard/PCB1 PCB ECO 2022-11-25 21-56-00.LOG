@@ -1,0 +1,737 @@
+Removed Pin From Net: NetName=KB_C10 Pin=SW_0-1
+Removed Pin From Net: NetName=KB_C10 Pin=SW_0-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_0-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_0-2
+Removed Pin From Net: NetName=+5 Pin=SW_0-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_0-5
+Removed Pin From Net: NetName=KB_C1 Pin=SW_1-1
+Removed Pin From Net: NetName=KB_C1 Pin=SW_1-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_1-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_1-2
+Removed Pin From Net: NetName=+5 Pin=SW_1-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_1-5
+Removed Pin From Net: NetName=KB_C2 Pin=SW_2-1
+Removed Pin From Net: NetName=KB_C2 Pin=SW_2-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_2-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_2-2
+Removed Pin From Net: NetName=+5 Pin=SW_2-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_2-5
+Removed Pin From Net: NetName=NetSW_1_4 Pin=SW_2-6
+Removed Pin From Net: NetName=KB_C3 Pin=SW_3-1
+Removed Pin From Net: NetName=KB_C3 Pin=SW_3-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_3-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_3-2
+Removed Pin From Net: NetName=+5 Pin=SW_3-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_3-5
+Removed Pin From Net: NetName=KB_C4 Pin=SW_4-1
+Removed Pin From Net: NetName=KB_C4 Pin=SW_4-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_4-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_4-2
+Removed Pin From Net: NetName=+5 Pin=SW_4-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_4-5
+Removed Pin From Net: NetName=KB_C5 Pin=SW_5-1
+Removed Pin From Net: NetName=KB_C5 Pin=SW_5-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_5-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_5-2
+Removed Pin From Net: NetName=+5 Pin=SW_5-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_5-5
+Removed Pin From Net: NetName=KB_C6 Pin=SW_6-1
+Removed Pin From Net: NetName=KB_C6 Pin=SW_6-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_6-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_6-2
+Removed Pin From Net: NetName=+5 Pin=SW_6-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_6-5
+Removed Pin From Net: NetName=KB_C7 Pin=SW_7-1
+Removed Pin From Net: NetName=KB_C7 Pin=SW_7-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_7-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_7-2
+Removed Pin From Net: NetName=+5 Pin=SW_7-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_7-5
+Removed Pin From Net: NetName=KB_C8 Pin=SW_8-1
+Removed Pin From Net: NetName=KB_C8 Pin=SW_8-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_8-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_8-2
+Removed Pin From Net: NetName=+5 Pin=SW_8-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_8-5
+Removed Pin From Net: NetName=KB_C9 Pin=SW_9-1
+Removed Pin From Net: NetName=KB_C9 Pin=SW_9-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_9-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_9-2
+Removed Pin From Net: NetName=+5 Pin=SW_9-3
+Removed Pin From Net: NetName=NetSW_0_6 Pin=SW_9-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_9-5
+Removed Pin From Net: NetName=KB_C11 Pin=SW_'-1
+Removed Pin From Net: NetName=KB_C11 Pin=SW_'-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_'-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_'-2
+Removed Pin From Net: NetName=+5 Pin=SW_'-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_'-5
+Removed Pin From Net: NetName=KB_C8 Pin=SW_,-1
+Removed Pin From Net: NetName=KB_C8 Pin=SW_,-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_,-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_,-2
+Removed Pin From Net: NetName=+5 Pin=SW_,-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_,-5
+Removed Pin From Net: NetName=KB_C11 Pin=SW_--1
+Removed Pin From Net: NetName=KB_C11 Pin=SW_--1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_--2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_--2
+Removed Pin From Net: NetName=+5 Pin=SW_--3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_--5
+Removed Pin From Net: NetName=NetSW_0_4 Pin=SW_--6
+Removed Pin From Net: NetName=KB_C9 Pin=SW_.-1
+Removed Pin From Net: NetName=KB_C9 Pin=SW_.-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_.-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_.-2
+Removed Pin From Net: NetName=+5 Pin=SW_.-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_.-5
+Removed Pin From Net: NetName=NetSW_,_4 Pin=SW_.-6
+Removed Pin From Net: NetName=KB_C10 Pin=SW_/-1
+Removed Pin From Net: NetName=KB_C10 Pin=SW_/-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_/-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_/-2
+Removed Pin From Net: NetName=+5 Pin=SW_/-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_/-5
+Removed Pin From Net: NetName=KB_C10 Pin=SW_;-1
+Removed Pin From Net: NetName=KB_C10 Pin=SW_;-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_;-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_;-2
+Removed Pin From Net: NetName=+5 Pin=SW_;-3
+Removed Pin From Net: NetName=NetSW_'_6 Pin=SW_;-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_;-5
+Removed Pin From Net: NetName=KB_C12 Pin=SW_=-1
+Removed Pin From Net: NetName=KB_C12 Pin=SW_=-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_=-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_=-2
+Removed Pin From Net: NetName=+5 Pin=SW_=-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_=-5
+Removed Pin From Net: NetName=KB_C11 Pin=SW_[-1
+Removed Pin From Net: NetName=KB_C11 Pin=SW_[-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_[-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_[-2
+Removed Pin From Net: NetName=+5 Pin=SW_[-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_[-5
+Removed Pin From Net: NetName=KB_C13 Pin=SW_\-1
+Removed Pin From Net: NetName=KB_C13 Pin=SW_\-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_\-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_\-2
+Removed Pin From Net: NetName=+5 Pin=SW_\-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_\-5
+Removed Pin From Net: NetName=KB_C12 Pin=SW_]-1
+Removed Pin From Net: NetName=KB_C12 Pin=SW_]-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_]-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_]-2
+Removed Pin From Net: NetName=+5 Pin=SW_]-3
+Removed Pin From Net: NetName=NetSW_\_6 Pin=SW_]-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_]-5
+Removed Pin From Net: NetName=NetSW_[_4 Pin=SW_]-6
+Removed Pin From Net: NetName=KB_C1 Pin=SW_A-1
+Removed Pin From Net: NetName=KB_C1 Pin=SW_A-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_A-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_A-2
+Removed Pin From Net: NetName=+5 Pin=SW_A-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_A-5
+Removed Pin From Net: NetName=KB_C5 Pin=SW_B-1
+Removed Pin From Net: NetName=KB_C5 Pin=SW_B-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_B-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_B-2
+Removed Pin From Net: NetName=+5 Pin=SW_B-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_B-5
+Removed Pin From Net: NetName=KB_C13 Pin=SW_BACKSPACE-1
+Removed Pin From Net: NetName=KB_C13 Pin=SW_BACKSPACE-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_BACKSPACE-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_BACKSPACE-2
+Removed Pin From Net: NetName=+5 Pin=SW_BACKSPACE-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_BACKSPACE-5
+Removed Pin From Net: NetName=KB_C3 Pin=SW_C-1
+Removed Pin From Net: NetName=KB_C3 Pin=SW_C-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_C-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_C-2
+Removed Pin From Net: NetName=+5 Pin=SW_C-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_C-5
+Removed Pin From Net: NetName=KB_C0 Pin=SW_CAPSLOCK-1
+Removed Pin From Net: NetName=KB_C0 Pin=SW_CAPSLOCK-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_CAPSLOCK-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_CAPSLOCK-2
+Removed Pin From Net: NetName=+5 Pin=SW_CAPSLOCK-3
+Removed Pin From Net: NetName=NetSW_A_6 Pin=SW_CAPSLOCK-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_CAPSLOCK-5
+Removed Pin From Net: NetName=NetSW_\_4 Pin=SW_CAPSLOCK-6
+Removed Pin From Net: NetName=KB_C3 Pin=SW_D-1
+Removed Pin From Net: NetName=KB_C3 Pin=SW_D-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_D-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_D-2
+Removed Pin From Net: NetName=+5 Pin=SW_D-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_D-5
+Removed Pin From Net: NetName=KB_C13 Pin=SW_DEL-1
+Removed Pin From Net: NetName=KB_C13 Pin=SW_DEL-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_DEL-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_DEL-2
+Removed Pin From Net: NetName=+5 Pin=SW_DEL-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_DEL-5
+Removed Pin From Net: NetName=KB_C12 Pin=SW_DOWN-1
+Removed Pin From Net: NetName=KB_C12 Pin=SW_DOWN-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_DOWN-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_DOWN-2
+Removed Pin From Net: NetName=+5 Pin=SW_DOWN-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_DOWN-5
+Removed Pin From Net: NetName=KB_C3 Pin=SW_E-1
+Removed Pin From Net: NetName=KB_C3 Pin=SW_E-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_E-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_E-2
+Removed Pin From Net: NetName=+5 Pin=SW_E-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_E-5
+Removed Pin From Net: NetName=KB_C13 Pin=SW_ENTER-1
+Removed Pin From Net: NetName=KB_C13 Pin=SW_ENTER-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_ENTER-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_ENTER-2
+Removed Pin From Net: NetName=+5 Pin=SW_ENTER-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_ENTER-5
+Removed Pin From Net: NetName=NetSW_'_4 Pin=SW_ENTER-6
+Removed Pin From Net: NetName=KB_C0 Pin=SW_ESC-1
+Removed Pin From Net: NetName=KB_C0 Pin=SW_ESC-1
+Removed Pin From Net: NetName=KB_R0 Pin=SW_ESC-2
+Removed Pin From Net: NetName=KB_R0 Pin=SW_ESC-2
+Removed Pin From Net: NetName=+5 Pin=SW_ESC-3
+Removed Pin From Net: NetName=NetSW_1_6 Pin=SW_ESC-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_ESC-5
+Removed Pin From Net: NetName=NetLED15_4 Pin=SW_ESC-6
+Removed Pin From Net: NetName=KB_C4 Pin=SW_F-1
+Removed Pin From Net: NetName=KB_C4 Pin=SW_F-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_F-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_F-2
+Removed Pin From Net: NetName=+5 Pin=SW_F-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_F-5
+Removed Pin From Net: NetName=NetSW_D_4 Pin=SW_F-6
+Removed Pin From Net: NetName=KB_C9 Pin=SW_FUNC-1
+Removed Pin From Net: NetName=KB_C9 Pin=SW_FUNC-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_FUNC-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_FUNC-2
+Removed Pin From Net: NetName=+5 Pin=SW_FUNC-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_FUNC-5
+Removed Pin From Net: NetName=KB_C5 Pin=SW_G-1
+Removed Pin From Net: NetName=KB_C5 Pin=SW_G-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_G-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_G-2
+Removed Pin From Net: NetName=+5 Pin=SW_G-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_G-5
+Removed Pin From Net: NetName=KB_C6 Pin=SW_H-1
+Removed Pin From Net: NetName=KB_C6 Pin=SW_H-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_H-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_H-2
+Removed Pin From Net: NetName=+5 Pin=SW_H-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_H-5
+Removed Pin From Net: NetName=KB_C8 Pin=SW_I-1
+Removed Pin From Net: NetName=KB_C8 Pin=SW_I-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_I-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_I-2
+Removed Pin From Net: NetName=+5 Pin=SW_I-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_I-5
+Removed Pin From Net: NetName=KB_C7 Pin=SW_J-1
+Removed Pin From Net: NetName=KB_C7 Pin=SW_J-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_J-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_J-2
+Removed Pin From Net: NetName=+5 Pin=SW_J-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_J-5
+Removed Pin From Net: NetName=KB_C8 Pin=SW_K-1
+Removed Pin From Net: NetName=KB_C8 Pin=SW_K-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_K-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_K-2
+Removed Pin From Net: NetName=+5 Pin=SW_K-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_K-5
+Removed Pin From Net: NetName=KB_C9 Pin=SW_L-1
+Removed Pin From Net: NetName=KB_C9 Pin=SW_L-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_L-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_L-2
+Removed Pin From Net: NetName=+5 Pin=SW_L-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_L-5
+Removed Pin From Net: NetName=KB_C2 Pin=SW_LALT-1
+Removed Pin From Net: NetName=KB_C2 Pin=SW_LALT-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LALT-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LALT-2
+Removed Pin From Net: NetName=+5 Pin=SW_LALT-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_LALT-5
+Removed Pin From Net: NetName=KB_C0 Pin=SW_LCTRL-1
+Removed Pin From Net: NetName=KB_C0 Pin=SW_LCTRL-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LCTRL-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LCTRL-2
+Removed Pin From Net: NetName=+5 Pin=SW_LCTRL-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_LCTRL-5
+Removed Pin From Net: NetName=NetSW_DEL_4 Pin=SW_LCTRL-6
+Removed Pin From Net: NetName=KB_C11 Pin=SW_LEFT-1
+Removed Pin From Net: NetName=KB_C11 Pin=SW_LEFT-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LEFT-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LEFT-2
+Removed Pin From Net: NetName=+5 Pin=SW_LEFT-3
+Removed Pin From Net: NetName=NetSW_DOWN_6 Pin=SW_LEFT-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_LEFT-5
+Removed Pin From Net: NetName=KB_C0 Pin=SW_LSHIFT-1
+Removed Pin From Net: NetName=KB_C0 Pin=SW_LSHIFT-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_LSHIFT-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_LSHIFT-2
+Removed Pin From Net: NetName=+5 Pin=SW_LSHIFT-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_LSHIFT-5
+Removed Pin From Net: NetName=KB_C1 Pin=SW_LWIN-1
+Removed Pin From Net: NetName=KB_C1 Pin=SW_LWIN-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LWIN-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_LWIN-2
+Removed Pin From Net: NetName=+5 Pin=SW_LWIN-3
+Removed Pin From Net: NetName=NetSW_LALT_6 Pin=SW_LWIN-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_LWIN-5
+Removed Pin From Net: NetName=KB_C7 Pin=SW_M-1
+Removed Pin From Net: NetName=KB_C7 Pin=SW_M-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_M-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_M-2
+Removed Pin From Net: NetName=+5 Pin=SW_M-3
+Removed Pin From Net: NetName=NetSW_,_6 Pin=SW_M-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_M-5
+Removed Pin From Net: NetName=KB_C10 Pin=SW_MENU-1
+Removed Pin From Net: NetName=KB_C10 Pin=SW_MENU-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_MENU-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_MENU-2
+Removed Pin From Net: NetName=+5 Pin=SW_MENU-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_MENU-5
+Removed Pin From Net: NetName=NetSW_FUNC_4 Pin=SW_MENU-6
+Removed Pin From Net: NetName=KB_C6 Pin=SW_N-1
+Removed Pin From Net: NetName=KB_C6 Pin=SW_N-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_N-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_N-2
+Removed Pin From Net: NetName=+5 Pin=SW_N-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_N-5
+Removed Pin From Net: NetName=NetSW_B_4 Pin=SW_N-6
+Removed Pin From Net: NetName=KB_C9 Pin=SW_O-1
+Removed Pin From Net: NetName=KB_C9 Pin=SW_O-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_O-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_O-2
+Removed Pin From Net: NetName=+5 Pin=SW_O-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_O-5
+Removed Pin From Net: NetName=NetSW_I_4 Pin=SW_O-6
+Removed Pin From Net: NetName=KB_C10 Pin=SW_P-1
+Removed Pin From Net: NetName=KB_C10 Pin=SW_P-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_P-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_P-2
+Removed Pin From Net: NetName=+5 Pin=SW_P-3
+Removed Pin From Net: NetName=NetSW_[_6 Pin=SW_P-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_P-5
+Removed Pin From Net: NetName=KB_C1 Pin=SW_Q-1
+Removed Pin From Net: NetName=KB_C1 Pin=SW_Q-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_Q-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_Q-2
+Removed Pin From Net: NetName=+5 Pin=SW_Q-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_Q-5
+Removed Pin From Net: NetName=KB_C4 Pin=SW_R-1
+Removed Pin From Net: NetName=KB_C4 Pin=SW_R-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_R-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_R-2
+Removed Pin From Net: NetName=+5 Pin=SW_R-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_R-5
+Removed Pin From Net: NetName=NetSW_E_4 Pin=SW_R-6
+Removed Pin From Net: NetName=KB_C13 Pin=SW_RIGHT-1
+Removed Pin From Net: NetName=KB_C13 Pin=SW_RIGHT-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_RIGHT-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_RIGHT-2
+Removed Pin From Net: NetName=+5 Pin=SW_RIGHT-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_RIGHT-5
+Removed Pin From Net: NetName=NetSW_DOWN_4 Pin=SW_RIGHT-6
+Removed Pin From Net: NetName=KB_C11 Pin=SW_RSHIFT-1
+Removed Pin From Net: NetName=KB_C11 Pin=SW_RSHIFT-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_RSHIFT-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_RSHIFT-2
+Removed Pin From Net: NetName=+5 Pin=SW_RSHIFT-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_RSHIFT-5
+Removed Pin From Net: NetName=KB_C2 Pin=SW_S-1
+Removed Pin From Net: NetName=KB_C2 Pin=SW_S-1
+Removed Pin From Net: NetName=KB_R2 Pin=SW_S-2
+Removed Pin From Net: NetName=KB_R2 Pin=SW_S-2
+Removed Pin From Net: NetName=+5 Pin=SW_S-3
+Removed Pin From Net: NetName=NetSW_D_6 Pin=SW_S-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_S-5
+Removed Pin From Net: NetName=NetSW_A_4 Pin=SW_S-6
+Removed Pin From Net: NetName=KB_C6 Pin=SW_SPACE-1
+Removed Pin From Net: NetName=KB_C6 Pin=SW_SPACE-1
+Removed Pin From Net: NetName=KB_R4 Pin=SW_SPACE-2
+Removed Pin From Net: NetName=KB_R4 Pin=SW_SPACE-2
+Removed Pin From Net: NetName=+5 Pin=SW_SPACE-3
+Removed Pin From Net: NetName=NetSW_FUNC_6 Pin=SW_SPACE-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_SPACE-5
+Removed Pin From Net: NetName=NetSW_LALT_4 Pin=SW_SPACE-6
+Removed Pin From Net: NetName=KB_C5 Pin=SW_T-1
+Removed Pin From Net: NetName=KB_C5 Pin=SW_T-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_T-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_T-2
+Removed Pin From Net: NetName=+5 Pin=SW_T-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_T-5
+Removed Pin From Net: NetName=KB_C0 Pin=SW_TAP-1
+Removed Pin From Net: NetName=KB_C0 Pin=SW_TAP-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_TAP-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_TAP-2
+Removed Pin From Net: NetName=+5 Pin=SW_TAP-3
+Removed Pin From Net: NetName=NetSW_Q_6 Pin=SW_TAP-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_TAP-5
+Removed Pin From Net: NetName=KB_C7 Pin=SW_U-1
+Removed Pin From Net: NetName=KB_C7 Pin=SW_U-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_U-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_U-2
+Removed Pin From Net: NetName=+5 Pin=SW_U-3
+Removed Pin From Net: NetName=NetSW_I_6 Pin=SW_U-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_U-5
+Removed Pin From Net: NetName=KB_C12 Pin=SW_UP-1
+Removed Pin From Net: NetName=KB_C12 Pin=SW_UP-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_UP-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_UP-2
+Removed Pin From Net: NetName=+5 Pin=SW_UP-3
+Removed Pin From Net: NetName=NetSW_DEL_6 Pin=SW_UP-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_UP-5
+Removed Pin From Net: NetName=KB_C4 Pin=SW_V-1
+Removed Pin From Net: NetName=KB_C4 Pin=SW_V-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_V-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_V-2
+Removed Pin From Net: NetName=+5 Pin=SW_V-3
+Removed Pin From Net: NetName=NetSW_B_6 Pin=SW_V-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_V-5
+Removed Pin From Net: NetName=NetSW_C_4 Pin=SW_V-6
+Removed Pin From Net: NetName=KB_C2 Pin=SW_W-1
+Removed Pin From Net: NetName=KB_C2 Pin=SW_W-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_W-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_W-2
+Removed Pin From Net: NetName=+5 Pin=SW_W-3
+Removed Pin From Net: NetName=NetSW_E_6 Pin=SW_W-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_W-5
+Removed Pin From Net: NetName=NetSW_Q_4 Pin=SW_W-6
+Removed Pin From Net: NetName=KB_C2 Pin=SW_X-1
+Removed Pin From Net: NetName=KB_C2 Pin=SW_X-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_X-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_X-2
+Removed Pin From Net: NetName=+5 Pin=SW_X-3
+Removed Pin From Net: NetName=NetSW_C_6 Pin=SW_X-4
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_X-5
+Removed Pin From Net: NetName=KB_C6 Pin=SW_Y-1
+Removed Pin From Net: NetName=KB_C6 Pin=SW_Y-1
+Removed Pin From Net: NetName=KB_R1 Pin=SW_Y-2
+Removed Pin From Net: NetName=KB_R1 Pin=SW_Y-2
+Removed Pin From Net: NetName=+5 Pin=SW_Y-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_Y-5
+Removed Pin From Net: NetName=KB_C1 Pin=SW_Z-1
+Removed Pin From Net: NetName=KB_C1 Pin=SW_Z-1
+Removed Pin From Net: NetName=KB_R3 Pin=SW_Z-2
+Removed Pin From Net: NetName=KB_R3 Pin=SW_Z-2
+Removed Pin From Net: NetName=+5 Pin=SW_Z-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=SW_Z-5
+Removed Member From Class: ClassName=Sheet1 Member=SW_LWIN
+Removed Member From Class: ClassName=Sheet1 Member=SW_TAP
+Change Component Footprint: Designator=SW_0 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_1 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_2 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_3 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_4 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_5 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_6 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_7 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_8 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_9 Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_' Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_, Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_- Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_. Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_/ Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_; Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_= Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_[ Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_\ Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_] Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_A Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_B Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_BACKSPACE Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_C Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_CAPSLOCK Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_D Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_DEL Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_DOWN Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_E Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_ENTER Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_ESC Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_F Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_FUNC Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_G Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_H Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_I Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_J Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_K Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_L Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_LALT Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_LCTRL Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_LEFT Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_LSHIFT Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_M Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_MENU Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_N Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_O Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_P Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_Q Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_R Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_RIGHT Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_RSHIFT Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_S Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_SPACE Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_T Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_U Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_UP Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_V Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_W Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_X Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_Y Old Footprint= New Footprint=KeyboardSwitchModule
+Change Component Footprint: Designator=SW_Z Old Footprint= New Footprint=KeyboardSwitchModule
+Added Component: Designator=SW_LOS(KeyboardSwitchModule)
+Added Component: Designator=SW_TAB(KeyboardSwitchModule)
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_0-3
+Added Pin To Net: NetName=+5 Pin=SW_0-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_1-3
+Added Pin To Net: NetName=+5 Pin=SW_1-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_2-3
+Added Pin To Net: NetName=NetSW_1_6 Pin=SW_2-4
+Added Pin To Net: NetName=+5 Pin=SW_2-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_3-3
+Added Pin To Net: NetName=+5 Pin=SW_3-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_4-3
+Added Pin To Net: NetName=+5 Pin=SW_4-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_5-3
+Added Pin To Net: NetName=+5 Pin=SW_5-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_6-3
+Added Pin To Net: NetName=+5 Pin=SW_6-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_7-3
+Added Pin To Net: NetName=+5 Pin=SW_7-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_8-3
+Added Pin To Net: NetName=+5 Pin=SW_8-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_9-3
+Added Pin To Net: NetName=+5 Pin=SW_9-5
+Added Pin To Net: NetName=NetSW_0_4 Pin=SW_9-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_'-3
+Added Pin To Net: NetName=+5 Pin=SW_'-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_,-3
+Added Pin To Net: NetName=+5 Pin=SW_,-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_--3
+Added Pin To Net: NetName=NetSW_0_6 Pin=SW_--4
+Added Pin To Net: NetName=+5 Pin=SW_--5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_.-3
+Added Pin To Net: NetName=NetSW_,_6 Pin=SW_.-4
+Added Pin To Net: NetName=+5 Pin=SW_.-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_/-3
+Added Pin To Net: NetName=+5 Pin=SW_/-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_;-3
+Added Pin To Net: NetName=+5 Pin=SW_;-5
+Added Pin To Net: NetName=NetSW_'_4 Pin=SW_;-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_=-3
+Added Pin To Net: NetName=+5 Pin=SW_=-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_[-3
+Added Pin To Net: NetName=+5 Pin=SW_[-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_\-3
+Added Pin To Net: NetName=+5 Pin=SW_\-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_]-3
+Added Pin To Net: NetName=NetSW_[_6 Pin=SW_]-4
+Added Pin To Net: NetName=+5 Pin=SW_]-5
+Added Pin To Net: NetName=NetSW_\_4 Pin=SW_]-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_A-3
+Added Pin To Net: NetName=+5 Pin=SW_A-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_B-3
+Added Pin To Net: NetName=+5 Pin=SW_B-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_BACKSPACE-3
+Added Pin To Net: NetName=+5 Pin=SW_BACKSPACE-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_C-3
+Added Pin To Net: NetName=+5 Pin=SW_C-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_CAPSLOCK-3
+Added Pin To Net: NetName=NetSW_\_6 Pin=SW_CAPSLOCK-4
+Added Pin To Net: NetName=+5 Pin=SW_CAPSLOCK-5
+Added Pin To Net: NetName=NetSW_A_4 Pin=SW_CAPSLOCK-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_D-3
+Added Pin To Net: NetName=+5 Pin=SW_D-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_DEL-3
+Added Pin To Net: NetName=+5 Pin=SW_DEL-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_DOWN-3
+Added Pin To Net: NetName=+5 Pin=SW_DOWN-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_E-3
+Added Pin To Net: NetName=+5 Pin=SW_E-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_ENTER-3
+Added Pin To Net: NetName=NetSW_'_6 Pin=SW_ENTER-4
+Added Pin To Net: NetName=+5 Pin=SW_ENTER-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_ESC-3
+Added Pin To Net: NetName=NetLED15_4 Pin=SW_ESC-4
+Added Pin To Net: NetName=+5 Pin=SW_ESC-5
+Added Pin To Net: NetName=NetSW_1_4 Pin=SW_ESC-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_F-3
+Added Pin To Net: NetName=NetSW_D_6 Pin=SW_F-4
+Added Pin To Net: NetName=+5 Pin=SW_F-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_FUNC-3
+Added Pin To Net: NetName=+5 Pin=SW_FUNC-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_G-3
+Added Pin To Net: NetName=+5 Pin=SW_G-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_H-3
+Added Pin To Net: NetName=+5 Pin=SW_H-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_I-3
+Added Pin To Net: NetName=+5 Pin=SW_I-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_J-3
+Added Pin To Net: NetName=+5 Pin=SW_J-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_K-3
+Added Pin To Net: NetName=+5 Pin=SW_K-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_L-3
+Added Pin To Net: NetName=+5 Pin=SW_L-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_LALT-3
+Added Pin To Net: NetName=+5 Pin=SW_LALT-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_LCTRL-3
+Added Pin To Net: NetName=NetSW_DEL_6 Pin=SW_LCTRL-4
+Added Pin To Net: NetName=+5 Pin=SW_LCTRL-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_LEFT-3
+Added Pin To Net: NetName=+5 Pin=SW_LEFT-5
+Added Pin To Net: NetName=NetSW_DOWN_4 Pin=SW_LEFT-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_LOS-3
+Added Pin To Net: NetName=+5 Pin=SW_LOS-5
+Added Pin To Net: NetName=NetSW_LALT_4 Pin=SW_LOS-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_LSHIFT-3
+Added Pin To Net: NetName=+5 Pin=SW_LSHIFT-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_M-3
+Added Pin To Net: NetName=+5 Pin=SW_M-5
+Added Pin To Net: NetName=NetSW_,_4 Pin=SW_M-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_MENU-3
+Added Pin To Net: NetName=NetSW_FUNC_6 Pin=SW_MENU-4
+Added Pin To Net: NetName=+5 Pin=SW_MENU-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_N-3
+Added Pin To Net: NetName=NetSW_B_6 Pin=SW_N-4
+Added Pin To Net: NetName=+5 Pin=SW_N-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_O-3
+Added Pin To Net: NetName=NetSW_I_6 Pin=SW_O-4
+Added Pin To Net: NetName=+5 Pin=SW_O-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_P-3
+Added Pin To Net: NetName=+5 Pin=SW_P-5
+Added Pin To Net: NetName=NetSW_[_4 Pin=SW_P-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_Q-3
+Added Pin To Net: NetName=+5 Pin=SW_Q-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_R-3
+Added Pin To Net: NetName=NetSW_E_6 Pin=SW_R-4
+Added Pin To Net: NetName=+5 Pin=SW_R-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_RIGHT-3
+Added Pin To Net: NetName=NetSW_DOWN_6 Pin=SW_RIGHT-4
+Added Pin To Net: NetName=+5 Pin=SW_RIGHT-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_RSHIFT-3
+Added Pin To Net: NetName=+5 Pin=SW_RSHIFT-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_S-3
+Added Pin To Net: NetName=NetSW_A_6 Pin=SW_S-4
+Added Pin To Net: NetName=+5 Pin=SW_S-5
+Added Pin To Net: NetName=NetSW_D_4 Pin=SW_S-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_SPACE-3
+Added Pin To Net: NetName=NetSW_LALT_6 Pin=SW_SPACE-4
+Added Pin To Net: NetName=+5 Pin=SW_SPACE-5
+Added Pin To Net: NetName=NetSW_FUNC_4 Pin=SW_SPACE-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_T-3
+Added Pin To Net: NetName=+5 Pin=SW_T-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_TAB-3
+Added Pin To Net: NetName=+5 Pin=SW_TAB-5
+Added Pin To Net: NetName=NetSW_Q_4 Pin=SW_TAB-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_U-3
+Added Pin To Net: NetName=+5 Pin=SW_U-5
+Added Pin To Net: NetName=NetSW_I_4 Pin=SW_U-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_UP-3
+Added Pin To Net: NetName=+5 Pin=SW_UP-5
+Added Pin To Net: NetName=NetSW_DEL_4 Pin=SW_UP-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_V-3
+Added Pin To Net: NetName=NetSW_C_6 Pin=SW_V-4
+Added Pin To Net: NetName=+5 Pin=SW_V-5
+Added Pin To Net: NetName=NetSW_B_4 Pin=SW_V-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_W-3
+Added Pin To Net: NetName=NetSW_Q_6 Pin=SW_W-4
+Added Pin To Net: NetName=+5 Pin=SW_W-5
+Added Pin To Net: NetName=NetSW_E_4 Pin=SW_W-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_X-3
+Added Pin To Net: NetName=+5 Pin=SW_X-5
+Added Pin To Net: NetName=NetSW_C_4 Pin=SW_X-6
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_Y-3
+Added Pin To Net: NetName=+5 Pin=SW_Y-5
+Added Pin To Net: NetName=BKUP_BATT- Pin=SW_Z-3
+Added Pin To Net: NetName=+5 Pin=SW_Z-5
+Added Pin To Net: NetName=NetSW_2_6 Pin=SW_2-6
+Added Pin To Net: NetName=NetSW_2_6 Pin=SW_3-4
+Added Net: Name=NetSW_2_6
+Added Pin To Net: NetName=NetSW_3_6 Pin=SW_3-6
+Added Pin To Net: NetName=NetSW_3_6 Pin=SW_4-4
+Added Net: Name=NetSW_3_6
+Added Pin To Net: NetName=NetSW_4_6 Pin=SW_4-6
+Added Pin To Net: NetName=NetSW_4_6 Pin=SW_5-4
+Added Net: Name=NetSW_4_6
+Added Pin To Net: NetName=NetSW_5_6 Pin=SW_5-6
+Added Pin To Net: NetName=NetSW_5_6 Pin=SW_6-4
+Added Net: Name=NetSW_5_6
+Added Pin To Net: NetName=NetSW_6_6 Pin=SW_6-6
+Added Pin To Net: NetName=NetSW_6_6 Pin=SW_7-4
+Added Net: Name=NetSW_6_6
+Added Pin To Net: NetName=NetSW_7_6 Pin=SW_7-6
+Added Pin To Net: NetName=NetSW_7_6 Pin=SW_8-4
+Added Net: Name=NetSW_7_6
+Added Pin To Net: NetName=NetSW_8_6 Pin=SW_8-6
+Added Pin To Net: NetName=NetSW_8_6 Pin=SW_9-4
+Added Net: Name=NetSW_8_6
+Added Pin To Net: NetName=NetSW_-_6 Pin=SW_--6
+Added Pin To Net: NetName=NetSW_-_6 Pin=SW_=-4
+Added Net: Name=NetSW_-_6
+Added Pin To Net: NetName=NetSW_._6 Pin=SW_.-6
+Added Pin To Net: NetName=NetSW_._6 Pin=SW_/-4
+Added Net: Name=NetSW_._6
+Added Pin To Net: NetName=NetSW_/_6 Pin=SW_/-6
+Added Pin To Net: NetName=NetSW_/_6 Pin=SW_RSHIFT-4
+Added Net: Name=NetSW_/_6
+Added Pin To Net: NetName=NetSW_;_4 Pin=SW_;-4
+Added Pin To Net: NetName=NetSW_;_4 Pin=SW_L-6
+Added Net: Name=NetSW_;_4
+Added Pin To Net: NetName=NetSW_=_6 Pin=SW_=-6
+Added Pin To Net: NetName=NetSW_=_6 Pin=SW_BACKSPACE-4
+Added Net: Name=NetSW_=_6
+Added Pin To Net: NetName=NetSW_BACKSPACE_6 Pin=SW_BACKSPACE-6
+Added Pin To Net: NetName=NetSW_BACKSPACE_6 Pin=SW_TAB-4
+Added Net: Name=NetSW_BACKSPACE_6
+Added Pin To Net: NetName=NetSW_ENTER_6 Pin=SW_ENTER-6
+Added Pin To Net: NetName=NetSW_ENTER_6 Pin=SW_LSHIFT-4
+Added Net: Name=NetSW_ENTER_6
+Added Pin To Net: NetName=NetSW_F_6 Pin=SW_F-6
+Added Pin To Net: NetName=NetSW_F_6 Pin=SW_G-4
+Added Net: Name=NetSW_F_6
+Added Pin To Net: NetName=NetSW_G_6 Pin=SW_G-6
+Added Pin To Net: NetName=NetSW_G_6 Pin=SW_H-4
+Added Net: Name=NetSW_G_6
+Added Pin To Net: NetName=NetSW_H_6 Pin=SW_H-6
+Added Pin To Net: NetName=NetSW_H_6 Pin=SW_J-4
+Added Net: Name=NetSW_H_6
+Added Pin To Net: NetName=NetSW_J_6 Pin=SW_J-6
+Added Pin To Net: NetName=NetSW_J_6 Pin=SW_K-4
+Added Net: Name=NetSW_J_6
+Added Pin To Net: NetName=NetSW_K_6 Pin=SW_K-6
+Added Pin To Net: NetName=NetSW_K_6 Pin=SW_L-4
+Added Net: Name=NetSW_K_6
+Added Pin To Net: NetName=NetSW_LCTRL_6 Pin=SW_LCTRL-6
+Added Pin To Net: NetName=NetSW_LCTRL_6 Pin=SW_LOS-4
+Added Net: Name=NetSW_LCTRL_6
+Added Pin To Net: NetName=NetSW_LEFT_4 Pin=SW_LEFT-4
+Added Pin To Net: NetName=NetSW_LEFT_4 Pin=SW_MENU-6
+Added Net: Name=NetSW_LEFT_4
+Added Pin To Net: NetName=NetSW_LSHIFT_6 Pin=SW_LSHIFT-6
+Added Pin To Net: NetName=NetSW_LSHIFT_6 Pin=SW_Z-4
+Added Net: Name=NetSW_LSHIFT_6
+Added Pin To Net: NetName=NetSW_M_4 Pin=SW_M-4
+Added Pin To Net: NetName=NetSW_M_4 Pin=SW_N-6
+Added Net: Name=NetSW_M_4
+Added Pin To Net: NetName=NetSW_O_6 Pin=SW_O-6
+Added Pin To Net: NetName=NetSW_O_6 Pin=SW_P-4
+Added Net: Name=NetSW_O_6
+Added Pin To Net: NetName=NetSW_R_6 Pin=SW_R-6
+Added Pin To Net: NetName=NetSW_R_6 Pin=SW_T-4
+Added Net: Name=NetSW_R_6
+Added Pin To Net: NetName=NetSW_RSHIFT_6 Pin=SW_RSHIFT-6
+Added Pin To Net: NetName=NetSW_RSHIFT_6 Pin=SW_UP-4
+Added Net: Name=NetSW_RSHIFT_6
+Added Pin To Net: NetName=NetSW_T_6 Pin=SW_T-6
+Added Pin To Net: NetName=NetSW_T_6 Pin=SW_Y-4
+Added Net: Name=NetSW_T_6
+Added Pin To Net: NetName=NetSW_U_4 Pin=SW_U-4
+Added Pin To Net: NetName=NetSW_U_4 Pin=SW_Y-6
+Added Net: Name=NetSW_U_4
+Added Pin To Net: NetName=NetSW_X_4 Pin=SW_X-4
+Added Pin To Net: NetName=NetSW_X_4 Pin=SW_Z-6
+Added Net: Name=NetSW_X_4
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LOS SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_TAB SW

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SPI_RootHub_CS Pin=U1-20
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=U1-21
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=U1-22
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=U1-23
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=IC1(QFN40P700X700X90-57N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/891/Espressif_Systems_ESP32_S3_Datasheet-2888558.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32-S3R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3R2?qs=Rp5uXu7WBW%252B6sJlr%252BvMJKQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 ESP32-S3R2
+Added Room: Name=Sheet1

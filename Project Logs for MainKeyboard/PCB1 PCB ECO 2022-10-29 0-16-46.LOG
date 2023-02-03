@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=ESP32_USB.USB_DN New Net Name=ESP32_USB.USB_D_N
+Change Net Name : Old Net Name=ESP32_USB.USB_DP New Net Name=ESP32_USB.USB_D_P
+Added Differential Pair: Name=ESP32_USB.USB_D

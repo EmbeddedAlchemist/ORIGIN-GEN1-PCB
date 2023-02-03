@@ -1,0 +1,28 @@
+Added Component: Designator=C3(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=ESP32_3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=ESP32_3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=ESP32_3V3 Pin=R3-1
+Added Pin To Net: NetName=ESP32_3V3 Pin=SW_BOOTSELECT-3
+Added Pin To Net: NetName=ESP32_EN Pin=C5-2
+Added Pin To Net: NetName=ESP32_EN Pin=R3-2
+Added Pin To Net: NetName=ESP32_EN Pin=U1-3
+Added Net: Name=ESP32_EN
+Added Member To Class: ClassName=Sheet1 Member=Component C3 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Room: Name=Sheet1

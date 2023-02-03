@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetLED15_4 Pin=SW_ESC-4
+Added Component: Designator=LED16(LED 3528-4Pin)
+Added Component: Designator=LED17(LED 3528-4Pin)
+Added Component: Designator=LED18(LED 3528-4Pin)
+Added Component: Designator=LED19(LED 3528-4Pin)
+Added Component: Designator=LED20(LED 3528-4Pin)
+Added Pin To Net: NetName=GND Pin=LED16-1
+Added Pin To Net: NetName=NetLED15_4 Pin=LED16-2
+Added Pin To Net: NetName=+3.7_LED Pin=LED16-3
+Added Pin To Net: NetName=GND Pin=LED17-1
+Added Pin To Net: NetName=+3.7_LED Pin=LED17-3
+Added Pin To Net: NetName=GND Pin=LED18-1
+Added Pin To Net: NetName=+3.7_LED Pin=LED18-3
+Added Pin To Net: NetName=GND Pin=LED19-1
+Added Pin To Net: NetName=+3.7_LED Pin=LED19-3
+Added Pin To Net: NetName=GND Pin=LED20-1
+Added Pin To Net: NetName=+3.7_LED Pin=LED20-3
+Added Pin To Net: NetName=NetLED16_4 Pin=LED16-4
+Added Pin To Net: NetName=NetLED16_4 Pin=LED17-2
+Added Net: Name=NetLED16_4
+Added Pin To Net: NetName=NetLED17_4 Pin=LED17-4
+Added Pin To Net: NetName=NetLED17_4 Pin=LED18-2
+Added Net: Name=NetLED17_4
+Added Pin To Net: NetName=NetLED18_4 Pin=LED18-4
+Added Pin To Net: NetName=NetLED18_4 Pin=LED19-2
+Added Net: Name=NetLED18_4
+Added Pin To Net: NetName=NetLED19_4 Pin=LED19-4
+Added Pin To Net: NetName=NetLED19_4 Pin=LED20-2
+Added Net: Name=NetLED19_4
+Added Pin To Net: NetName=NetLED20_4 Pin=LED20-4
+Added Pin To Net: NetName=NetLED20_4 Pin=SW_ESC-4
+Added Net: Name=NetLED20_4
+Added Member To Class: ClassName=Sheet1 Member=Component LED16 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED17 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED18 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED19 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED20 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M

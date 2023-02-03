@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=NetR12_1 Pin=U1-17
+Removed Pin From Net: NetName=NetR10_1 Pin=U1-18
+Removed Pin From Net: NetName=NetR13_1 Pin=U1-22
+Removed Pin From Net: NetName=NetU1_15 Pin=U2-12
+Removed Pin From Net: NetName=NetU1_16 Pin=U2-14
+Removed Pin From Net: NetName=NetU1_24 Pin=U3-7
+Removed Pin From Net: NetName=NetU1_15 Pin=U11-12
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Component: Designator=LED?(LED 3528-4Pin)
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=BKUP_BATT- Pin=LED?-1
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=+5 Pin=LED?-3
+Added Pin To Net: NetName=NetR12_1 Pin=U1-18
+Added Pin To Net: NetName=NetR10_1 Pin=U1-22
+Added Pin To Net: NetName=NetR13_1 Pin=U1-23
+Added Pin To Net: NetName=NetU1_15 Pin=U2-11
+Added Pin To Net: NetName=NetU1_16 Pin=U2-12
+Added Pin To Net: NetName=NetU1_24 Pin=U3-6
+Added Pin To Net: NetName=NetU1_15 Pin=U11-11
+Added Pin To Net: NetName=NetU1_16 Pin=U11-12
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-4
+Added Net: Name=NetLED?_2
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Add Net: Net with name "NetLED?_2" already exists
+Added Pin To Net: NetName=NetLED?_4 Pin=LED?-4
+Added Pin To Net: NetName=NetLED?_4 Pin=SW_ESC-6
+Added Net: Name=NetLED?_4
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=NetU1_17 Pin=U2-14
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Pin To Net: NetName=NetU1_25 Pin=U3-7
+Added Net: Name=NetU1_25
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812

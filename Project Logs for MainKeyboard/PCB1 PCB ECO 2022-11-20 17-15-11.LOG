@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ESP32_USB.USB_D_P Pin=JP_USB-8
+Removed Pin From Net: NetName=ESP32_USB.USB_D_N Pin=JP_USB-9
+Change Component Designator: OldDesignator=JP_Module19 NewDesignator=JP_Module9
+Added Pin To Net: NetName=ESP32_USB.USB_D_N Pin=JP_USB-8
+Added Pin To Net: NetName=ESP32_USB.USB_D_P Pin=JP_USB-9
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module2 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module5 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module7 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module13 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module14 FPC1.0-16P

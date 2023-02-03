@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=R11-1
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=1M
+Change Component Designator: OldDesignator=U? NewDesignator=U15
+Added Pin To Net: NetName=+5 Pin=R11-2
+Added Pin To Net: NetName=NetSW4_4 Pin=SW4-4
+Added Pin To Net: NetName=NetSW4_4 Pin=U15-4
+Added Net: Name=NetSW4_4
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M

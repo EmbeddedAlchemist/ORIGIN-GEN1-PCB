@@ -1,0 +1,17 @@
+Added Component: Designator=R11(R0603_L_NS)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603_L_NS)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT+ Pin=R11-1
+Added Pin To Net: NetName=+5 Pin=R12-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=SW4-4
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=SW5-4
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component R11 1M
+Added Member To Class: ClassName=Sheet1 Member=Component R12 1M

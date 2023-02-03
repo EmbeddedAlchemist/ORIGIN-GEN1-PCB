@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=BKUP_BATT- Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=C6-1
+Removed Pin From Net: NetName=BKUP_BATT- Pin=C13-1
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=C13-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=C14-1
+Removed Pin From Net: NetName=BKUP_BATT- Pin=D3-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=Q1-6
+Removed Pin From Net: NetName=ESP32_3V3 Pin=Q2-6
+Removed Pin From Net: NetName=BKUP_BATT- Pin=Q3-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=Q4-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=R7-1
+Removed Pin From Net: NetName=BKUP_BATT- Pin=R15-1
+Removed Pin From Net: NetName=BKUP_BATT- Pin=R16-1
+Removed Pin From Net: NetName=BKUP_BATT- Pin=U5-2
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=U5-5
+Removed Pin From Net: NetName=BKUP_BATT- Pin=U6-2
+Removed Pin From Net: NetName=+5 Pin=U6-5
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet1 Member=C13
+Removed Member From Class: ClassName=Sheet1 Member=C14
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet1 Member=L1
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=Q2
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Removed Member From Class: ClassName=Sheet1 Member=Q4
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R14
+Removed Member From Class: ClassName=Sheet1 Member=R15
+Removed Member From Class: ClassName=Sheet1 Member=R16
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Removed Member From Class: ClassName=Sheet1 Member=U6
+Added Component: Designator=U?(DSJ14_2P85X1P58_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS63020QDSJTQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU17_4 Pin=U17-4
+Added Net: Name=NetU17_4
+Added Pin To Net: NetName=NetU17_6 Pin=U17-6
+Added Net: Name=NetU17_6
+Added Member To Class: ClassName=Sheet1 Member=Component U? TPS63020QDSJTQ1

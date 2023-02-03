@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=STM32F0_POWER Pin=SW_STM32F0_BOOTSELECT-3
+Change Component Designator: OldDesignator=SW_STM32F0_BOOTSELECT NewDesignator=SW_BOOTSELECT
+Added Component: Designator=JP_ESP32_DEBUG(HDR2.54-LI-7P)
+Add component (AddParameter): Name = "BOM名称"; Value = "7P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESP32璖3璚ROOM?U_EXP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-WROOM-1U-N16R8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP_ESP32_DEBUG-7
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-42
+Added Pin To Net: NetName=GND Pin=U?-43
+Added Pin To Net: NetName=GND Pin=U?-44
+Added Pin To Net: NetName=GND Pin=U?-45
+Added Pin To Net: NetName=GND Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=GND Pin=U?-48
+Added Pin To Net: NetName=GND Pin=U?-49
+Added Pin To Net: NetName=ESP32_3V3 Pin=U?-2
+Added Net: Name=ESP32_3V3
+Added Pin To Net: NetName=ESP32_BOOTOPINION Pin=R2-2
+Added Pin To Net: NetName=ESP32_BOOTOPINION Pin=SW_BOOTSELECT-2
+Added Pin To Net: NetName=ESP32_BOOTOPINION Pin=U1-27
+Added Net: Name=ESP32_BOOTOPINION
+Added Pin To Net: NetName=ESP32_POWER Pin=SW_BOOTSELECT-3
+Added Net: Name=ESP32_POWER
+Added Pin To Net: NetName=ESP32_RX Pin=JP_ESP32_DEBUG-2
+Added Pin To Net: NetName=ESP32_RX Pin=U1-36
+Added Net: Name=ESP32_RX
+Added Pin To Net: NetName=ESP32_TCK Pin=U1-32
+Added Net: Name=ESP32_TCK
+Added Pin To Net: NetName=ESP32_TDI Pin=U1-34
+Added Net: Name=ESP32_TDI
+Added Pin To Net: NetName=ESP32_TDO Pin=U1-33
+Added Net: Name=ESP32_TDO
+Added Pin To Net: NetName=ESP32_TMS Pin=U1-35
+Added Net: Name=ESP32_TMS
+Added Pin To Net: NetName=ESP32_TX Pin=JP_ESP32_DEBUG-1
+Added Pin To Net: NetName=ESP32_TX Pin=U1-37
+Added Net: Name=ESP32_TX
+Added Member To Class: ClassName=Sheet1 Member=Component JP_ESP32_DEBUG HDR-1X7
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1U-N16R8
+Added Room: Name=Sheet1

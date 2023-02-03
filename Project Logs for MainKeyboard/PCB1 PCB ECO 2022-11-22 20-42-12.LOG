@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=U14-7
+Removed Pin From Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=U14-8
+Removed Pin From Net: NetName=VBUS_CONV_OUTPUT Pin=U15-7
+Removed Pin From Net: NetName=VBUS_CONV_OUTPUT Pin=U15-8
+Change Component Footprint: Designator=C3 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C4 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C5 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C10 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C11 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C12 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C13 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C14 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C15 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C18 Old Footprint=C0603_L_NS New Footprint=C0603_L
+Change Component Footprint: Designator=C16 Old Footprint=C1206_M New Footprint=C1206_L
+Change Component Footprint: Designator=C17 Old Footprint=C1206_M New Footprint=C1206_L
+Change Component Footprint: Designator=L1 Old Footprint=L-SMD-0420 New Footprint=L-SMD-0630
+Change Component Footprint: Designator=R1 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R2 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R3 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R4 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R5 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R6 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R7 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R9 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R10 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R11 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R12 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R13 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R15 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R17 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R18 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R19 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R20 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R21 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R22 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R24 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Footprint: Designator=R25 Old Footprint=R0603_L_NS New Footprint=R0603_L
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=1.2K
+Change Component Comment : Designator=R24 Old Comment=1K New Comment=5.1K
+Change Component Comment : Designator=R25 Old Comment=1K New Comment=5.1K
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R6 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R22 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R19 Old Comment=1K New Comment=40.2K
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=68.1K
+Change Component Comment : Designator=R12 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R18 Old Comment=1K New Comment=124K
+Change Component Comment : Designator=R20 Old Comment=1K New Comment=200K
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=1uF
+Change Component Comment : Designator=C12 Old Comment=104 New Comment=2.2uF
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=2.2uF
+Change Component Comment : Designator=C14 Old Comment=104 New Comment=2.2uF
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=10uF
+Change Component Comment : Designator=C16 Old Comment=104 New Comment=10uF
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=22uF
+Change Component Comment : Designator=C17 Old Comment=104 New Comment=22uF
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C15 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C18 Old Comment=104 New Comment=220pF
+Added Component: Designator=R8(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOT108-1_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT108-1_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=BKUP_BATT+ Pin=R14-1
+Added Pin To Net: NetName=NetU3_8 Pin=U9-2
+Added Pin To Net: NetName=NetU7_2 Pin=U9-6
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U9-7
+Added Pin To Net: NetName=NetU7_2 Pin=U9-8
+Added Pin To Net: NetName=NetR15_1 Pin=U9-9
+Added Pin To Net: NetName=+5 Pin=U9-14
+Added Pin To Net: NetName=NetU5_3 Pin=U10-2
+Added Pin To Net: NetName=NetU5_3 Pin=U10-3
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U10-7
+Added Pin To Net: NetName=BKUP_BATT+ Pin=U10-14
+Added Pin To Net: NetName=VBUS_CONV_OUTPUT Pin=U14-7
+Added Pin To Net: NetName=VBUS_CONV_OUTPUT Pin=U14-8
+Added Pin To Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=U15-7
+Added Pin To Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=U15-8
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U9-3
+Added Pin To Net: NetName=NetR8_2 Pin=U9-11
+Added Pin To Net: NetName=NetR8_2 Pin=U9-13
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U10-5
+Added Pin To Net: NetName=NetR14_2 Pin=U10-9
+Added Pin To Net: NetName=NetR14_2 Pin=U10-11
+Added Pin To Net: NetName=NetR14_2 Pin=U10-13
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetU9_1 Pin=U9-1
+Added Net: Name=NetU9_1
+Added Pin To Net: NetName=NetU9_5 Pin=U9-5
+Added Net: Name=NetU9_5
+Added Pin To Net: NetName=NetU10_1 Pin=U10-1
+Added Net: Name=NetU10_1
+Added Pin To Net: NetName=NetU10_4 Pin=U10-4
+Added Net: Name=NetU10_4
+Added Member To Class: ClassName=Sheet1 Member=Component C3 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C16 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C17 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 220pF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SS14
+Added Member To Class: ClassName=Sheet1 Member=Component JP_BATT FPC1.0-6P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_ESP32_DEBUG HDR-1X3
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module0 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module1 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module2 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module3 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module4 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module5 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module6 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module7 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module8 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module9 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module10 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module11 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module12 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module13 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module14 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module15 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_USB FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component L1 10uH
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 1.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R13 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R15 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 124K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 40.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R20 200K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 68.1K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 5.1K
+Added Member To Class: ClassName=Sheet1 Member=Component R25 5.1K
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 3x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 3x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component SW_0 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_1 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_2 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_3 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_4 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_5 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_6 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_7 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_8 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_9 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_' SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_, SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_- SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_. SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_/ SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_; SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_= SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_[ SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_\ SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_] SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_A SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_BACKSPACE SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_B SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_CAPSLOCK SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_C SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_DEL SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_DOWN SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_D SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_ENTER SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_ESC SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_E SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_F SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_FUNC SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_G SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_H SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_I SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_J SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_K SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LALT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LCTRL SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LEFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LSHIFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_L SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LWIN SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_MENU SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_M SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_N SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_O SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_P SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Q SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_RIGHT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_RSHIFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_R SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_SPACE SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_S SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_TAP SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_T SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_UP SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_U SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_V SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_W SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_X SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Y SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Z SW
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP32-S3-WROOM-1U-N16R8
+Added Member To Class: ClassName=Sheet1 Member=Component U2 74HC595PW-Q100,118
+Added Member To Class: ClassName=Sheet1 Member=Component U3 TP4056
+Added Member To Class: ClassName=Sheet1 Member=Component U4 DW03D
+Added Member To Class: ClassName=Sheet1 Member=Component U5 SOT23
+Added Member To Class: ClassName=Sheet1 Member=Component U7 MP1584
+Added Member To Class: ClassName=Sheet1 Member=Component U9 74HC14D
+Added Member To Class: ClassName=Sheet1 Member=Component U10 74HC14D
+Added Member To Class: ClassName=Sheet1 Member=Component U11 74HC595PW-Q100,118
+Added Member To Class: ClassName=Sheet1 Member=Component U12 74HC595PW-Q100,118
+Added Member To Class: ClassName=Sheet1 Member=Component U13 74HC595PW-Q100,118

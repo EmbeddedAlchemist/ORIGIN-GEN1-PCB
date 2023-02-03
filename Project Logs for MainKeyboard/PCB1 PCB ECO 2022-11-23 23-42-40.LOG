@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5 Pin=D1-1
+Removed Pin From Net: NetName=+5 Pin=D1-1
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=D1-2
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=D1-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=D1-3
+Removed Pin From Net: NetName=BKUP_BATT- Pin=D1-3
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=D1-4
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=D1-4
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=D1-5
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=D1-5
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Added Pin To Net: NetName=BKUP_BATT- Pin=U17-7
+Added Pin To Net: NetName=BKUP_BATT+ Pin=U17-14

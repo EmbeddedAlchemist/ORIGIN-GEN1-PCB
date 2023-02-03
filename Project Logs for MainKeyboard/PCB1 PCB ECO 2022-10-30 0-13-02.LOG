@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetU7_2 Pin=3-2
+Removed Pin From Net: NetName=NetU7_2 Pin=3-3
+Removed Pin From Net: NetName=NetU8_2 Pin=3-4
+Removed Pin From Net: NetName=NetU6_2 Pin=3-5
+Removed Pin From Net: NetName=NetU3_8 Pin=3-6
+Change Component Designator: OldDesignator=3 NewDesignator=U9
+Added Component: Designator=R8(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R8-1
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R14-1
+Added Pin To Net: NetName=NetU5_3 Pin=R14-2
+Added Pin To Net: NetName=NetU6_2 Pin=U9-1
+Added Pin To Net: NetName=NetU3_8 Pin=U9-2
+Added Pin To Net: NetName=NetU7_2 Pin=U9-6
+Added Pin To Net: NetName=NetU8_2 Pin=U9-9
+Added Pin To Net: NetName=NetU6_2 Pin=U10-4
+Added Pin To Net: NetName=NetU5_3 Pin=U10-5
+Added Pin To Net: NetName=NetU5_3 Pin=U10-9
+Added Pin To Net: NetName=NetU5_3 Pin=U10-11
+Added Pin To Net: NetName=NetU5_3 Pin=U10-13
+Change Net Name : Old Net Name=NetU5_3 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U9-3
+Added Pin To Net: NetName=NetR8_2 Pin=U9-11
+Added Pin To Net: NetName=NetR8_2 Pin=U9-13
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetU9_5 Pin=U9-5
+Added Pin To Net: NetName=NetU9_5 Pin=U9-8
+Added Net: Name=NetU9_5
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 1K

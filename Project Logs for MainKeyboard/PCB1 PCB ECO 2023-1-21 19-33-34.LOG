@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=T1-1
+Removed Pin From Net: NetName=+5 Pin=T1-2
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Added Pin To Net: NetName=BKUP_BATT+ Pin=T1-1
+Added Pin To Net: NetName=+5 Pin=T1-2
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetT1_3 Pin=T1-6
+Added Pin To Net: NetName=NetT1_3 Pin=T1-7
+Added Pin To Net: NetName=NetT1_3 Pin=T1-8
+Added Net: Name=NetT1_3

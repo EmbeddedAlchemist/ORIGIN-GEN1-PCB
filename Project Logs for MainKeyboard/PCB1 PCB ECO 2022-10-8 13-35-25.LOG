@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=ESP32_TMS Pin=JP_ESP32_DEBUG-3
+Added Pin To Net: NetName=ESP32_TDI Pin=JP_ESP32_DEBUG-4
+Added Pin To Net: NetName=ESP32_TDO Pin=JP_ESP32_DEBUG-5
+Added Pin To Net: NetName=ESP32_TCK Pin=JP_ESP32_DEBUG-6
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP32-S3-WROOM-1U-N16R8

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5_IC Pin=Q1-4
+Removed Pin From Net: NetName=CONV_IN Pin=Q1-6
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=Q2-4
+Removed Pin From Net: NetName=CONV_IN Pin=Q2-6
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=Q2
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Removed Member From Class: ClassName=Sheet1 Member=Q4
+Removed Member From Class: ClassName=Sheet1 Member=R29
+Removed Member From Class: ClassName=Sheet1 Member=R30
+Removed Member From Class: ClassName=Sheet1 Member=R31
+Removed Member From Class: ClassName=Sheet1 Member=R32
+Added Component: Designator=DE?(DEBUG_B)
+Add component (AddParameter): Name = "BOM名称"; Value = "调试断点焊盘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(DFN1010B-6_NEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PMDXB600UNELZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=T?(SOT1118)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMDPB80XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetT?_6 Pin=T?-6
+Added Pin To Net: NetName=NetT?_6 Pin=T?-7
+Added Net: Name=NetT?_6
+Added Member To Class: ClassName=Sheet1 Member=Component DE? DEBUG PAD
+Added Member To Class: ClassName=Sheet1 Member=Component Q? PMDXB600UNELZ
+Added Member To Class: ClassName=Sheet1 Member=Component T? PMDPB80XP

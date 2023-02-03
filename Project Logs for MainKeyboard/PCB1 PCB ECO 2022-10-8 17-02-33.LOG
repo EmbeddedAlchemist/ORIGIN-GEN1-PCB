@@ -1,0 +1,18 @@
+Added Component: Designator=JP_Module1(FPC1.0-2H-WS-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=JP_Module1-1
+Added Pin To Net: NetName=VBUS Pin=JP_Module1-2
+Added Pin To Net: NetName=VBUS Pin=JP_Module1-3
+Added Pin To Net: NetName=VBUS Pin=JP_Module1-4
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=JP_Module1-5
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=JP_Module1-6
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=JP_Module1-7
+Added Pin To Net: NetName=SPI_BUS.Module1_CS Pin=JP_Module1-8
+Added Pin To Net: NetName=GND Pin=JP_Module1-9
+Added Pin To Net: NetName=GND Pin=JP_Module1-10
+Added Pin To Net: NetName=GND Pin=JP_Module1-11
+Added Pin To Net: NetName=GND Pin=JP_Module1-12
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module1 FPC1.0-12P
+Added Room: Name=Sheet1

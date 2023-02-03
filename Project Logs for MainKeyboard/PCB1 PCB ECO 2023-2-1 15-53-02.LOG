@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=GND Pin=JP_Module1-0
+Removed Pin From Net: NetName=GND Pin=JP_Module1-0
+Removed Pin From Net: NetName=GND Pin=JP_Module2-0
+Removed Pin From Net: NetName=GND Pin=JP_Module2-0
+Removed Pin From Net: NetName=GND Pin=JP_Module3-0
+Removed Pin From Net: NetName=GND Pin=JP_Module3-0
+Removed Pin From Net: NetName=GND Pin=JP_Module4-0
+Removed Pin From Net: NetName=GND Pin=JP_Module4-0
+Removed Pin From Net: NetName=GND Pin=JP_Module5-0
+Removed Pin From Net: NetName=GND Pin=JP_Module5-0
+Removed Pin From Net: NetName=GND Pin=JP_Module6-0
+Removed Pin From Net: NetName=GND Pin=JP_Module6-0
+Removed Pin From Net: NetName=GND Pin=JP_Module7-0
+Removed Pin From Net: NetName=GND Pin=JP_Module7-0
+Removed Pin From Net: NetName=GND Pin=JP_Module8-0
+Removed Pin From Net: NetName=GND Pin=JP_Module8-0
+Removed Pin From Net: NetName=GND Pin=JP_Module9-0
+Removed Pin From Net: NetName=GND Pin=JP_Module9-0
+Removed Pin From Net: NetName=GND Pin=JP_Module10-0
+Removed Pin From Net: NetName=GND Pin=JP_Module10-0
+Removed Pin From Net: NetName=GND Pin=JP_Module11-0
+Removed Pin From Net: NetName=GND Pin=JP_Module11-0
+Removed Pin From Net: NetName=GND Pin=JP_Module12-0
+Removed Pin From Net: NetName=GND Pin=JP_Module12-0
+Removed Pin From Net: NetName=GND Pin=JP_Module13-0
+Removed Pin From Net: NetName=GND Pin=JP_Module13-0
+Removed Pin From Net: NetName=GND Pin=JP_Module14-0
+Removed Pin From Net: NetName=GND Pin=JP_Module14-0
+Removed Pin From Net: NetName=GND Pin=JP_Module15-0
+Removed Pin From Net: NetName=GND Pin=JP_Module15-0
+Removed Pin From Net: NetName=GND Pin=JP_Module16-0
+Removed Pin From Net: NetName=GND Pin=JP_Module16-0
+Removed Pin From Net: NetName=GND Pin=JP_USB1-0
+Removed Pin From Net: NetName=GND Pin=JP_USB1-0
+Added Component: Designator=SP1(M3x4_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SP2(M3x4_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SP3(M3x4_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SP4(M3x4_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "铜柱"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SP1-1
+Added Pin To Net: NetName=GND Pin=SP2-1
+Added Pin To Net: NetName=GND Pin=SP3-1
+Added Pin To Net: NetName=GND Pin=SP4-1
+Added Member To Class: ClassName=Sheet1 Member=Component R33 180K
+Added Member To Class: ClassName=Sheet1 Member=Component SP1 M3铜柱
+Added Member To Class: ClassName=Sheet1 Member=Component SP2 M3铜柱
+Added Member To Class: ClassName=Sheet1 Member=Component SP3 M3铜柱
+Added Member To Class: ClassName=Sheet1 Member=Component SP4 M3铜柱

@@ -1,0 +1,34 @@
+Added Component: Designator=TP4(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TEST 1.6)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TCK Pin=TP4-1
+Added Pin To Net: NetName=TCK Pin=U1-32
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=TP6-1
+Added Pin To Net: NetName=TDI Pin=U1-34
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=TP5-1
+Added Pin To Net: NetName=TDO Pin=U1-33
+Added Net: Name=TDO
+Added Pin To Net: NetName=TMS Pin=TP7-1
+Added Pin To Net: NetName=TMS Pin=U1-35
+Added Net: Name=TMS
+Add Differential Pair: Number of nets in differential pair NetR9_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR10_1 is 1 instead of 2
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 TEST
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 TEST
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 TEST
+Added Member To Class: ClassName=Sheet1 Member=Component TP7 TEST

@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=KB_C8 Pin=U2-9
+Removed Pin From Net: NetName=KB_C8 Pin=U11-14
+Removed Pin From Net: NetName=Module8_CS Pin=U12-9
+Removed Pin From Net: NetName=Module8_CS Pin=U13-14
+Added Component: Designator=R6(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOP8_M)
+Add component (AddParameter): Name = "参数"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U15(SOP8_M)
+Add component (AddParameter): Name = "参数"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOP8_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "组合对场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U17(TSSOP14_N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC04PW,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R17-1
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R22-1
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U16-1
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U16-3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U14-2
+Added Pin To Net: NetName=NetR6_1 Pin=U14-4
+Added Pin To Net: NetName=NetR6_1 Pin=U16-7
+Added Pin To Net: NetName=NetR6_1 Pin=U16-8
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U14-1
+Added Pin To Net: NetName=NetR6_2 Pin=U14-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U15-2
+Added Pin To Net: NetName=NetR7_1 Pin=U15-4
+Added Pin To Net: NetName=NetR7_1 Pin=U16-5
+Added Pin To Net: NetName=NetR7_1 Pin=U16-6
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U15-1
+Added Pin To Net: NetName=NetR7_2 Pin=U15-3
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U16-2
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U16-4
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U11-14
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU12_9 Pin=U12-9
+Added Pin To Net: NetName=NetU12_9 Pin=U13-14
+Added Net: Name=NetU12_9
+Added Pin To Net: NetName=NetU14_5 Pin=U14-5
+Added Pin To Net: NetName=NetU14_5 Pin=U14-6
+Added Net: Name=NetU14_5
+Added Pin To Net: NetName=NetU14_7 Pin=U14-7
+Added Pin To Net: NetName=NetU14_7 Pin=U14-8
+Added Net: Name=NetU14_7
+Added Pin To Net: NetName=NetU15_5 Pin=U15-5
+Added Pin To Net: NetName=NetU15_5 Pin=U15-6
+Added Net: Name=NetU15_5
+Added Pin To Net: NetName=NetU15_7 Pin=U15-7
+Added Pin To Net: NetName=NetU15_7 Pin=U15-8
+Added Net: Name=NetU15_7
+Added Member To Class: ClassName=Sheet1 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R17 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R22 10K
+Added Member To Class: ClassName=Sheet1 Member=Component U14 4953
+Added Member To Class: ClassName=Sheet1 Member=Component U15 4953
+Added Member To Class: ClassName=Sheet1 Member=Component U16 SPN9926A
+Added Member To Class: ClassName=Sheet1 Member=Component U17 74HC04PW,118

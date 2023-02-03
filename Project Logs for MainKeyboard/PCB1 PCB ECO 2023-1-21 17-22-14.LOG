@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=+5_IC Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=DZ1-1
+Removed Pin From Net: NetName=+5_IC Pin=DZ1-2
+Removed Pin From Net: NetName=+5 Pin=F1-1
+Removed Pin From Net: NetName=+5_IC Pin=F1-2
+Removed Pin From Net: NetName=+5 Pin=JP_USB-1
+Removed Pin From Net: NetName=+5 Pin=JP_USB-2
+Removed Pin From Net: NetName=+5 Pin=JP_USB-3
+Removed Pin From Net: NetName=+5 Pin=JP_USB-14
+Removed Pin From Net: NetName=+5 Pin=JP_USB-15
+Removed Pin From Net: NetName=+5 Pin=JP_USB-16
+Removed Member From Class: ClassName=Sheet1 Member=DZ1
+Removed Member From Class: ClassName=Sheet1 Member=F1
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Added Component: Designator=D3(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=NetC3_2 Pin=T1-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=JP_USB-1
+Added Pin To Net: NetName=NetD2_1 Pin=JP_USB-2
+Added Pin To Net: NetName=NetD2_1 Pin=JP_USB-3
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=JP_USB-14
+Added Pin To Net: NetName=NetD3_1 Pin=JP_USB-15
+Added Pin To Net: NetName=NetD3_1 Pin=JP_USB-16
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=Sheet1 Member=Component D3 B5919WS

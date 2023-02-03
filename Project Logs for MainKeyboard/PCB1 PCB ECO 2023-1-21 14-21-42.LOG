@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L2 Old Footprint=SWPA3015 New Footprint=L-SMD-0420
+Change Component Comment : Designator=L2 Old Comment=2.2uH New Comment=1.5uH
+Change component parameters: Designator = "L2" ("L2"); Footprint = "SWPA3015"; UniqueID = "\GPJRAXCC" ("\GPJRAXCC")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "一体成型电感"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"

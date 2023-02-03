@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BKUP_BATT- Pin=R4-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R5-2
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Added Pin To Net: NetName=NetR2_1 Pin=U12-10
+Added Pin To Net: NetName=NetR1_1 Pin=U12-13
+Added Pin To Net: NetName=NetR2_1 Pin=U13-10
+Added Pin To Net: NetName=NetR1_1 Pin=U13-13

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=I2C_INT Pin=R34-6
+Removed Pin From Net: NetName=I2C_BUS.SCL Pin=R34-7
+Removed Pin From Net: NetName=I2C_BUS.SDA Pin=R34-8
+Added Pin To Net: NetName=ESP32_3V3 Pin=R34-4
+Added Pin To Net: NetName=I2C_INT Pin=R34-5
+Added Pin To Net: NetName=I2C_BUS.SCL Pin=R34-6
+Added Pin To Net: NetName=I2C_BUS.SDA Pin=R34-7
+Added Member To Class: ClassName=Sheet1 Member=Component R33 180K

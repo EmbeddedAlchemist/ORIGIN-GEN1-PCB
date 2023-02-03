@@ -1,0 +1,15 @@
+Added Component: Designator=D?(ESD10)
+Add component (AddParameter): Name = "BOM名称"; Value = "TVS阵列"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "AZ1045-04F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=D?-1
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=D?-1
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=D?-2
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=D?-4
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=D?-4
+Added Pin To Net: NetName=+5 Pin=D?-5
+Added Pin To Net: NetName=+5 Pin=D?-5
+Added Member To Class: ClassName=Sheet1 Member=Component D? AZ1045-04F

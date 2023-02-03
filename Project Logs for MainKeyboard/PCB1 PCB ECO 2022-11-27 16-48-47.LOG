@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=U1-12
+Removed Pin From Net: NetName=NetR12_1 Pin=U1-18
+Removed Pin From Net: NetName=NetR10_1 Pin=U1-22
+Removed Pin From Net: NetName=NetR13_1 Pin=U1-23
+Added Pin To Net: NetName=BKUP_BATT- Pin=U2-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U2-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U4-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U4-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U7-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U7-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U8-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U8-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U9-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U9-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U10-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U10-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U11-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U11-15
+Added Pin To Net: NetName=BKUP_BATT- Pin=U14-8
+Added Pin To Net: NetName=BKUP_BATT- Pin=U14-15
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U4-1
+Added Pin To Net: NetName=NetU2_1 Pin=U7-1
+Added Pin To Net: NetName=NetU2_1 Pin=U8-1
+Added Pin To Net: NetName=NetU2_1 Pin=U9-1
+Added Pin To Net: NetName=NetU2_1 Pin=U10-1
+Added Pin To Net: NetName=NetU2_1 Pin=U11-1
+Added Pin To Net: NetName=NetU2_1 Pin=U14-1
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U4-2
+Added Pin To Net: NetName=NetU2_2 Pin=U7-2
+Added Pin To Net: NetName=NetU2_2 Pin=U8-2
+Added Pin To Net: NetName=NetU2_2 Pin=U9-2
+Added Pin To Net: NetName=NetU2_2 Pin=U10-2
+Added Pin To Net: NetName=NetU2_2 Pin=U11-2
+Added Pin To Net: NetName=NetU2_2 Pin=U14-2
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U4-10
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU2_10 Pin=U2-10
+Added Pin To Net: NetName=NetU2_10 Pin=U9-9
+Added Net: Name=NetU2_10
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Net: Name=NetU3_6
+Added Pin To Net: NetName=NetU3_7 Pin=U3-7
+Added Net: Name=NetU3_7
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Pin To Net: NetName=NetU4_9 Pin=U7-10
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=NetU7_9 Pin=U7-9
+Added Pin To Net: NetName=NetU7_9 Pin=U8-10
+Added Net: Name=NetU7_9
+Added Pin To Net: NetName=NetU8_9 Pin=U8-9
+Added Net: Name=NetU8_9
+Added Pin To Net: NetName=NetU9_10 Pin=U9-10
+Added Pin To Net: NetName=NetU9_10 Pin=U14-9
+Added Net: Name=NetU9_10
+Added Pin To Net: NetName=NetU10_9 Pin=U10-9
+Added Pin To Net: NetName=NetU10_9 Pin=U11-10
+Added Net: Name=NetU10_9
+Added Pin To Net: NetName=NetU11_9 Pin=U11-9
+Added Pin To Net: NetName=NetU11_9 Pin=U14-10
+Added Net: Name=NetU11_9
+Added Pin To Net: NetName=NetU12_11 Pin=U12-11
+Added Pin To Net: NetName=NetU12_11 Pin=U13-11
+Added Net: Name=NetU12_11
+Added Pin To Net: NetName=NetU12_12 Pin=U12-12
+Added Pin To Net: NetName=NetU12_12 Pin=U13-12
+Added Net: Name=NetU12_12
+Added Pin To Net: NetName=NetU12_14 Pin=U12-14
+Added Net: Name=NetU12_14

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP_USB FPC1.0-14P
+Added Member To Class: ClassName=Sheet1 Member=Component R33 2M

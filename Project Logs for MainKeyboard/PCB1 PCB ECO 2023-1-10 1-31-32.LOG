@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R2-2
+Removed Pin From Net: NetName=Module11_CS Pin=U12-1
+Removed Pin From Net: NetName=Module12_CS Pin=U12-2
+Removed Pin From Net: NetName=Module13_CS Pin=U12-3
+Removed Pin From Net: NetName=Module0_CS Pin=U12-4
+Removed Pin From Net: NetName=Module1_CS Pin=U12-5
+Removed Pin From Net: NetName=Module2_CS Pin=U12-6
+Removed Pin From Net: NetName=Module3_CS Pin=U12-7
+Removed Pin From Net: NetName=GND Pin=U12-8
+Removed Pin From Net: NetName=Module10_CS Pin=U12-15
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U12-16
+Removed Pin From Net: NetName=Module5_CS Pin=U13-1
+Removed Pin From Net: NetName=Module14_CS Pin=U13-2
+Removed Pin From Net: NetName=Module6_CS Pin=U13-3
+Removed Pin From Net: NetName=Module7_CS Pin=U13-4
+Removed Pin From Net: NetName=Module8_CS Pin=U13-5
+Removed Pin From Net: NetName=Module15_CS Pin=U13-6
+Removed Pin From Net: NetName=Module9_CS Pin=U13-7
+Removed Pin From Net: NetName=GND Pin=U13-8
+Removed Pin From Net: NetName=Module4_CS Pin=U13-15
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U13-16
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=U12
+Removed Member From Class: ClassName=Sheet1 Member=U13
+Added Member To Class: ClassName=Sheet1 Member=Component U? PCF8575

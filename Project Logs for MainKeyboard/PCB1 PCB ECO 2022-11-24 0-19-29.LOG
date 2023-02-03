@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VBUS_CONV_OUTPUT Pin=D1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=D1-2
+Removed Pin From Net: NetName=BKUP_BATT- Pin=D2-1
+Removed Pin From Net: NetName=NetC2_1 Pin=D2-2
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=U17-14
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=SOD-323
+Change Component Footprint: Designator=D2 Old Footprint=SOD-123 New Footprint=SOD-323
+Change Component Comment : Designator=D1 Old Comment=B5819W New Comment=B5919WS
+Change Component Comment : Designator=D2 Old Comment=B5819W New Comment=B5919WS
+Added Component: Designator=D3(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT+ Pin=D1-1
+Added Pin To Net: NetName=VBUS_CONV_OUTPUT Pin=D2-1
+Added Pin To Net: NetName=NetC2_2 Pin=D2-2
+Added Pin To Net: NetName=BKUP_BATT- Pin=D3-1
+Added Pin To Net: NetName=NetC2_1 Pin=D3-2
+Added Pin To Net: NetName=+5 Pin=D4-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=U17-14
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component D3 B5919WS
+Added Member To Class: ClassName=Sheet1 Member=Component D4 B5919WS

@@ -1,0 +1,126 @@
+Change Component Designator: OldDesignator=SW_Q NewDesignator=SW_ESC
+Added Component: Designator=SW_0(KeyboardSwitchModule)
+Added Component: Designator=SW_1(KeyboardSwitchModule)
+Added Component: Designator=SW_2(KeyboardSwitchModule)
+Added Component: Designator=SW_3(KeyboardSwitchModule)
+Added Component: Designator=SW_4(KeyboardSwitchModule)
+Added Component: Designator=SW_5(KeyboardSwitchModule)
+Added Component: Designator=SW_6(KeyboardSwitchModule)
+Added Component: Designator=SW_7(KeyboardSwitchModule)
+Added Component: Designator=SW_8(KeyboardSwitchModule)
+Added Component: Designator=SW_9(KeyboardSwitchModule)
+Added Component: Designator=SW_'(KeyboardSwitchModule)
+Added Component: Designator=SW_,(KeyboardSwitchModule)
+Added Component: Designator=SW_-(KeyboardSwitchModule)
+Added Component: Designator=SW_.(KeyboardSwitchModule)
+Added Component: Designator=SW_;(KeyboardSwitchModule)
+Added Component: Designator=SW_=(KeyboardSwitchModule)
+Added Component: Designator=SW_[(KeyboardSwitchModule)
+Added Component: Designator=SW_\(KeyboardSwitchModule)
+Added Component: Designator=SW_](KeyboardSwitchModule)
+Added Component: Designator=SW_A(KeyboardSwitchModule)
+Added Component: Designator=SW_BACKSPACE(KeyboardSwitchModule)
+Added Component: Designator=SW_B(KeyboardSwitchModule)
+Added Component: Designator=SW_CAPSLOCK(KeyboardSwitchModule)
+Added Component: Designator=SW_C(KeyboardSwitchModule)
+Added Component: Designator=SW_DEL(KeyboardSwitchModule)
+Added Component: Designator=SW_DOWN(KeyboardSwitchModule)
+Added Component: Designator=SW_D(KeyboardSwitchModule)
+Added Component: Designator=SW_ENTER(KeyboardSwitchModule)
+Added Component: Designator=SW_E(KeyboardSwitchModule)
+Added Component: Designator=SW_F(KeyboardSwitchModule)
+Added Component: Designator=SW_FUNC(KeyboardSwitchModule)
+Added Component: Designator=SW_G(KeyboardSwitchModule)
+Added Component: Designator=SW_H(KeyboardSwitchModule)
+Added Component: Designator=SW_I(KeyboardSwitchModule)
+Added Component: Designator=SW_J(KeyboardSwitchModule)
+Added Component: Designator=SW_K(KeyboardSwitchModule)
+Added Component: Designator=SW_LALT(KeyboardSwitchModule)
+Added Component: Designator=SW_LCTRL(KeyboardSwitchModule)
+Added Component: Designator=SW_LEFT(KeyboardSwitchModule)
+Added Component: Designator=SW_LSHIFT(KeyboardSwitchModule)
+Added Component: Designator=SW_L(KeyboardSwitchModule)
+Added Component: Designator=SW_LWIN(KeyboardSwitchModule)
+Added Component: Designator=SW_MENU(KeyboardSwitchModule)
+Added Component: Designator=SW_M(KeyboardSwitchModule)
+Added Component: Designator=SW_N(KeyboardSwitchModule)
+Added Component: Designator=SW_O(KeyboardSwitchModule)
+Added Component: Designator=SW_P(KeyboardSwitchModule)
+Added Component: Designator=SW_Q(KeyboardSwitchModule)
+Added Component: Designator=SW_RIGHT(KeyboardSwitchModule)
+Added Component: Designator=SW_RSHIFT(KeyboardSwitchModule)
+Added Component: Designator=SW_R(KeyboardSwitchModule)
+Added Component: Designator=SW_SPACE(KeyboardSwitchModule)
+Added Component: Designator=SW_S(KeyboardSwitchModule)
+Added Component: Designator=SW_TAP(KeyboardSwitchModule)
+Added Component: Designator=SW_T(KeyboardSwitchModule)
+Added Component: Designator=SW_UP(KeyboardSwitchModule)
+Added Component: Designator=SW_U(KeyboardSwitchModule)
+Added Component: Designator=SW_V(KeyboardSwitchModule)
+Added Component: Designator=SW_W(KeyboardSwitchModule)
+Added Component: Designator=SW_X(KeyboardSwitchModule)
+Added Component: Designator=SW_Y(KeyboardSwitchModule)
+Added Component: Designator=SW_Z(KeyboardSwitchModule)
+Added Member To Class: ClassName=Sheet1 Member=Component SW_0 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_1 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_2 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_3 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_4 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_5 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_6 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_7 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_8 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_9 SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_' SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_, SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_- SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_. SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_; SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_= SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_[ SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_\ SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_] SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_A SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_BACKSPACE SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_B SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_CAPSLOCK SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_C SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_DEL SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_DOWN SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_D SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_ENTER SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_E SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_F SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_FUNC SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_G SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_H SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_I SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_J SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_K SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LALT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LCTRL SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LEFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LSHIFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_L SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_LWIN SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_MENU SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_M SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_N SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_O SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_P SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Q SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_RIGHT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_RSHIFT SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_R SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_SPACE SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_S SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_TAP SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_T SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_UP SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_U SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_V SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_W SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_X SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Y SW
+Added Member To Class: ClassName=Sheet1 Member=Component SW_Z SW
+Added Room: Name=Sheet1

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VBUS Pin=JP_Module1-5
+Removed Pin From Net: NetName=VBUS Pin=JP_Module1-6
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=JP_Module1-7
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=JP_Module1-8
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=JP_Module1-9
+Removed Pin From Net: NetName=SPI_BUS.Module1_CS Pin=JP_Module1-10
+Removed Pin From Net: NetName=GND Pin=JP_Module1-13
+Removed Pin From Net: NetName=GND Pin=JP_Module1-14
+Removed Pin From Net: NetName=GND Pin=JP_Module1-15
+Removed Pin From Net: NetName=GND Pin=JP_Module1-16
+Removed Pin From Net: NetName=GND Pin=JP_Module1-17
+Removed Pin From Net: NetName=GND Pin=JP_Module1-18
+Removed Pin From Net: NetName=GND Pin=JP_Module1-19
+Removed Pin From Net: NetName=GND Pin=JP_Module1-20
+Change Component Footprint: Designator=JP_Module1 Old Footprint=CON16_1X16_DUTB_HRS_HIR New Footprint=FPC0.5 2H-WS-12P
+Change Component Comment : Designator=JP_Module1 Old Comment=FH12-16S-0.5SV New Comment=FPC1.0-12P
+Change component parameters: Designator = "JP_Module1" ("JP_Module1"); Footprint = "CON16_1X16_DUTB_HRS_HIR"; UniqueID = "\ZYUCVZKW" ("\ZYUCVZKW")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=P?(PCI32S)
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=JP_Module1-5
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=JP_Module1-6
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=JP_Module1-7
+Added Pin To Net: NetName=SPI_BUS.Module1_CS Pin=JP_Module1-8
+Added Pin To Net: NetName=GND Pin=JP_Module1-9
+Added Pin To Net: NetName=GND Pin=JP_Module1-10
+Added Member To Class: ClassName=Sheet1 Member=Component P? PCI

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CONV_IN Pin=Q2-4
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=Q2-6
+Added Pin To Net: NetName=BKUP_BATT+ Pin=Q2-4
+Added Pin To Net: NetName=CONV_IN Pin=Q2-6

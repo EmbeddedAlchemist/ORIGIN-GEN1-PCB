@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Added Component: Designator=U12(TDFN-3*3-8L)
+Added Pin To Net: NetName=+5 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-5
+Added Pin To Net: NetName=BKUP_BATT+ Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component U12 SGM4056

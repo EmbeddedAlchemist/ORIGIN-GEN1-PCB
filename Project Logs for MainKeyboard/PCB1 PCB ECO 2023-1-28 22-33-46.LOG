@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=U5-12
+Removed Pin From Net: NetName=NetR12_2 Pin=U5-14
+Removed Pin From Net: NetName=I2C_BUS.SCL Pin=U5-22
+Removed Pin From Net: NetName=I2C_BUS.SDA Pin=U5-23
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U5-24
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Added Pin To Net: NetName=ESP32_3V3 Pin=U15-3
+Added Pin To Net: NetName=NetU8_9 Pin=U8-9
+Added Net: Name=NetU8_9
+Added Pin To Net: NetName=NetU12_3 Pin=U12-3
+Added Net: Name=NetU12_3
+Added Member To Class: ClassName=Sheet1 Member=Component C12 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C16 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C17 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C19 104
+Added Member To Class: ClassName=Sheet1 Member=Component L2 1.5uH
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1M
+Added Member To Class: ClassName=Sheet1 Member=Component R2 180K
+Added Member To Class: ClassName=Sheet1 Member=Component U13 TPS63020QDSJTQ1

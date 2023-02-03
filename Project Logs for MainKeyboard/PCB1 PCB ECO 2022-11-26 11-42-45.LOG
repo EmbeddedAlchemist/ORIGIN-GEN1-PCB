@@ -1,0 +1,132 @@
+Added Pin To Net: NetName=SW_0 Pin=SW_0-2
+Added Net: Name=SW_0
+Added Pin To Net: NetName=SW_1 Pin=SW_1-2
+Added Net: Name=SW_1
+Added Pin To Net: NetName=SW_2 Pin=SW_2-2
+Added Net: Name=SW_2
+Added Pin To Net: NetName=SW_3 Pin=SW_3-2
+Added Net: Name=SW_3
+Added Pin To Net: NetName=SW_4 Pin=SW_4-2
+Added Net: Name=SW_4
+Added Pin To Net: NetName=SW_5 Pin=SW_5-2
+Added Net: Name=SW_5
+Added Pin To Net: NetName=SW_6 Pin=SW_6-2
+Added Net: Name=SW_6
+Added Pin To Net: NetName=SW_7 Pin=SW_7-2
+Added Net: Name=SW_7
+Added Pin To Net: NetName=SW_8 Pin=SW_8-2
+Added Net: Name=SW_8
+Added Pin To Net: NetName=SW_9 Pin=SW_9-2
+Added Net: Name=SW_9
+Added Pin To Net: NetName=SW_' Pin=SW_'-2
+Added Net: Name=SW_'
+Added Pin To Net: NetName=SW_, Pin=SW_,-2
+Added Net: Name=SW_,
+Added Pin To Net: NetName=SW_- Pin=SW_--2
+Added Net: Name=SW_-
+Added Pin To Net: NetName=SW_. Pin=SW_.-2
+Added Net: Name=SW_.
+Added Pin To Net: NetName=SW_/ Pin=SW_/-2
+Added Net: Name=SW_/
+Added Pin To Net: NetName=SW_; Pin=SW_;-2
+Added Net: Name=SW_;
+Added Pin To Net: NetName=SW_= Pin=SW_=-2
+Added Net: Name=SW_=
+Added Pin To Net: NetName=SW_[ Pin=SW_[-2
+Added Net: Name=SW_[
+Added Pin To Net: NetName=SW_\ Pin=SW_\-2
+Added Net: Name=SW_\
+Added Pin To Net: NetName=SW_] Pin=SW_]-2
+Added Net: Name=SW_]
+Added Pin To Net: NetName=SW_A Pin=SW_A-2
+Added Net: Name=SW_A
+Added Pin To Net: NetName=SW_BACKSPACE Pin=SW_BACKSPACE-2
+Added Net: Name=SW_BACKSPACE
+Added Pin To Net: NetName=SW_B Pin=SW_B-2
+Added Net: Name=SW_B
+Added Pin To Net: NetName=SW_CAPSLOCK Pin=SW_CAPSLOCK-2
+Added Net: Name=SW_CAPSLOCK
+Added Pin To Net: NetName=SW_C Pin=SW_C-2
+Added Net: Name=SW_C
+Added Pin To Net: NetName=SW_DEL Pin=SW_DEL-2
+Added Net: Name=SW_DEL
+Added Pin To Net: NetName=SW_DOWN Pin=SW_DOWN-2
+Added Net: Name=SW_DOWN
+Added Pin To Net: NetName=SW_D Pin=SW_D-2
+Added Net: Name=SW_D
+Added Pin To Net: NetName=SW_ENTER Pin=SW_ENTER-2
+Added Net: Name=SW_ENTER
+Added Pin To Net: NetName=SW_ESC Pin=SW_ESC-2
+Added Net: Name=SW_ESC
+Added Pin To Net: NetName=SW_E Pin=SW_E-2
+Added Net: Name=SW_E
+Added Pin To Net: NetName=SW_F Pin=SW_F-2
+Added Net: Name=SW_F
+Added Pin To Net: NetName=SW_FUNC Pin=SW_FUNC-2
+Added Net: Name=SW_FUNC
+Added Pin To Net: NetName=SW_G Pin=SW_G-2
+Added Net: Name=SW_G
+Added Pin To Net: NetName=SW_H Pin=SW_H-2
+Added Net: Name=SW_H
+Added Pin To Net: NetName=SW_I Pin=SW_I-2
+Added Net: Name=SW_I
+Added Pin To Net: NetName=SW_J Pin=SW_J-2
+Added Net: Name=SW_J
+Added Pin To Net: NetName=SW_K Pin=SW_K-2
+Added Net: Name=SW_K
+Added Pin To Net: NetName=SW_LALT Pin=SW_LALT-2
+Added Net: Name=SW_LALT
+Added Pin To Net: NetName=SW_LCTRL Pin=SW_LCTRL-2
+Added Net: Name=SW_LCTRL
+Added Pin To Net: NetName=SW_LEFT Pin=SW_LEFT-2
+Added Net: Name=SW_LEFT
+Added Pin To Net: NetName=SW_LOS Pin=SW_LOS-2
+Added Net: Name=SW_LOS
+Added Pin To Net: NetName=SW_LSHIFT Pin=SW_LSHIFT-2
+Added Net: Name=SW_LSHIFT
+Added Pin To Net: NetName=SW_L Pin=SW_L-2
+Added Net: Name=SW_L
+Added Pin To Net: NetName=SW_MENU Pin=SW_MENU-2
+Added Net: Name=SW_MENU
+Added Pin To Net: NetName=SW_M Pin=SW_M-2
+Added Net: Name=SW_M
+Added Pin To Net: NetName=SW_N Pin=SW_N-2
+Added Net: Name=SW_N
+Added Pin To Net: NetName=SW_O Pin=SW_O-2
+Added Net: Name=SW_O
+Added Pin To Net: NetName=SW_P Pin=SW_P-2
+Added Net: Name=SW_P
+Added Pin To Net: NetName=SW_Q Pin=SW_Q-2
+Added Net: Name=SW_Q
+Added Pin To Net: NetName=SW_RIGHT Pin=SW_RIGHT-2
+Added Net: Name=SW_RIGHT
+Added Pin To Net: NetName=SW_RSHIFT Pin=SW_RSHIFT-2
+Added Net: Name=SW_RSHIFT
+Added Pin To Net: NetName=SW_R Pin=SW_R-2
+Added Net: Name=SW_R
+Added Pin To Net: NetName=SW_SPACE Pin=SW_SPACE-2
+Added Net: Name=SW_SPACE
+Added Pin To Net: NetName=SW_S Pin=SW_S-2
+Added Net: Name=SW_S
+Added Pin To Net: NetName=SW_TAB Pin=SW_TAB-2
+Added Net: Name=SW_TAB
+Added Pin To Net: NetName=SW_T Pin=SW_T-2
+Added Net: Name=SW_T
+Added Pin To Net: NetName=SW_UP Pin=SW_UP-2
+Added Net: Name=SW_UP
+Added Pin To Net: NetName=SW_U Pin=SW_U-2
+Added Net: Name=SW_U
+Added Pin To Net: NetName=SW_V Pin=SW_V-2
+Added Net: Name=SW_V
+Added Pin To Net: NetName=SW_W Pin=SW_W-2
+Added Net: Name=SW_W
+Added Pin To Net: NetName=SW_X Pin=SW_X-2
+Added Net: Name=SW_X
+Added Pin To Net: NetName=SW_Y Pin=SW_Y-2
+Added Net: Name=SW_Y
+Added Pin To Net: NetName=SW_Z Pin=SW_Z-2
+Added Net: Name=SW_Z
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component U2 74HC165PW,118
+Added Member To Class: ClassName=Sheet1 Member=Component U11 74HC165PW,118

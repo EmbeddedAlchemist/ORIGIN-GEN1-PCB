@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=JP_ESP32_DEBUG-3
+Removed Member From Class: ClassName=Sheet1 Member=JP_ESP32_DEBUG
+Added Component: Designator=TP?(TEST 2.0)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TEST 2.0)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TEST 2.0)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Pin To Net: NetName=ESP32_3V3 Pin=U_AUTH-2
+Added Pin To Net: NetName=GND Pin=U_AUTH-4
+Added Pin To Net: NetName=NetTP?_1 Pin=TP?-1
+Added Pin To Net: NetName=NetTP?_1 Pin=U1-36
+Added Net: Name=NetTP?_1
+Add Net: Net with name "NetTP?_1" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TEST
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TEST
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TEST
+Added Member To Class: ClassName=Sheet1 Member=Component U? SGM4056

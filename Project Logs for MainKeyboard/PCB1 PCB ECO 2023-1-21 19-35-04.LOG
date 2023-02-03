@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=T1-1
+Removed Pin From Net: NetName=+5 Pin=T1-2
+Removed Pin From Net: NetName=NetT1_3 Pin=T1-3
+Removed Pin From Net: NetName=+5 Pin=T1-5
+Removed Pin From Net: NetName=NetT1_3 Pin=T1-6
+Removed Pin From Net: NetName=NetT1_3 Pin=T1-7
+Removed Pin From Net: NetName=NetT1_3 Pin=T1-8
+Added Component: Designator=T1(SOT1118)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PMDPB80XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT+ Pin=T1-1
+Added Pin To Net: NetName=+5 Pin=T1-2
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetC3_2 Pin=T1-4
+Added Pin To Net: NetName=+5 Pin=T1-5
+Added Pin To Net: NetName=NetT1_3 Pin=T1-6
+Added Pin To Net: NetName=NetT1_3 Pin=T1-7
+Added Pin To Net: NetName=NetT1_3 Pin=T1-8
+Added Member To Class: ClassName=Sheet1 Member=Component T1 PMDPB80XP

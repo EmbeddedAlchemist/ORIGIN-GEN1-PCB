@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CONV_IN Pin=C6-2
+Removed Pin From Net: NetName=CONV_IN Pin=C19-2
+Removed Pin From Net: NetName=CONV_IN Pin=U3-1
+Removed Pin From Net: NetName=CONV_IN Pin=U3-12
+Removed Pin From Net: NetName=CONV_IN Pin=U3-13
+Removed Pin From Net: NetName=CONV_IN Pin=U13-1
+Removed Pin From Net: NetName=CONV_IN Pin=U13-13
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U3-1
+Added Pin To Net: NetName=NetC6_2 Pin=U3-12
+Added Pin To Net: NetName=NetC6_2 Pin=U3-13
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U13-1
+Added Pin To Net: NetName=NetC19_2 Pin=U13-13
+Added Net: Name=NetC19_2

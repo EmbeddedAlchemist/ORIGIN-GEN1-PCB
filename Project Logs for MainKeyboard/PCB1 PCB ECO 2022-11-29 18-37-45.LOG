@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=SW1 Old Footprint=SW SMD-3*6*4.3 New Footprint=SW 3*4
+Change Component Footprint: Designator=SW2 Old Footprint=SW SMD-3*6*4.3 New Footprint=SW 3*4
+Change Component Comment : Designator=SW1 Old Comment=3x6x5 New Comment=SW_3x4
+Change Component Comment : Designator=SW2 Old Comment=3x6x5 New Comment=SW_3x4
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW SMD-3*6*4.3"; UniqueID = "\DQMLTWTT" ("\DQMLTWTT")
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SW SMD-3*6*4.3"; UniqueID = "\ZYFRVOKJ" ("\ZYFRVOKJ")

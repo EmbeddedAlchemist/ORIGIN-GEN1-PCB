@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-1
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-2
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-3
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-4
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-5
+Removed Pin From Net: NetName=VBUS Pin=JP_Module5-6
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=JP_Module5-7
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=JP_Module5-8
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=JP_Module5-9
+Removed Pin From Net: NetName=SPI_BUS.Module5_CS Pin=JP_Module5-10
+Removed Pin From Net: NetName=GND Pin=JP_Module5-11
+Removed Pin From Net: NetName=GND Pin=JP_Module5-12
+Removed Pin From Net: NetName=GND Pin=JP_Module5-13
+Removed Pin From Net: NetName=GND Pin=JP_Module5-14
+Removed Pin From Net: NetName=GND Pin=JP_Module5-15
+Removed Pin From Net: NetName=GND Pin=JP_Module5-16
+Removed Member From Class: ClassName=Sheet1 Member=JP_Module5
+Added Component: Designator=JP?(MX1.25-WI-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费技术支持"; Value = "封装库来自淘宝卖家ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=JP?-1
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=JP?-2
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=JP?-3
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=JP?-4
+Added Pin To Net: NetName=SPI_BUS.Module5_CS Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6

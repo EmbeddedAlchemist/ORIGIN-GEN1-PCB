@@ -1,0 +1,141 @@
+Removed Pin From Net: NetName=Module1_CS Pin=JP_Module1-10
+Removed Pin From Net: NetName=Module2_CS Pin=JP_Module2-10
+Removed Pin From Net: NetName=Module3_CS Pin=JP_Module3-10
+Removed Pin From Net: NetName=Module4_CS Pin=JP_Module4-10
+Removed Pin From Net: NetName=Module5_CS Pin=JP_Module5-10
+Removed Pin From Net: NetName=Module6_CS Pin=JP_Module6-10
+Removed Pin From Net: NetName=Module7_CS Pin=JP_Module7-10
+Removed Pin From Net: NetName=Module8_CS Pin=JP_Module8-10
+Removed Pin From Net: NetName=Module9_CS Pin=JP_Module9-10
+Removed Pin From Net: NetName=Module10_CS Pin=JP_Module10-10
+Removed Pin From Net: NetName=Module11_CS Pin=JP_Module11-10
+Removed Pin From Net: NetName=Module12_CS Pin=JP_Module12-10
+Removed Pin From Net: NetName=Module13_CS Pin=JP_Module13-10
+Removed Pin From Net: NetName=Module14_CS Pin=JP_Module14-10
+Change Component Designator: OldDesignator=JP_Module1 NewDesignator=JP_Module0
+Change Component Designator: OldDesignator=JP_Module2 NewDesignator=JP_Module1
+Change Component Designator: OldDesignator=JP_Module3 NewDesignator=JP_Module2
+Change Component Designator: OldDesignator=JP_Module4 NewDesignator=JP_Module3
+Change Component Designator: OldDesignator=JP_Module5 NewDesignator=JP_Module4
+Change Component Designator: OldDesignator=JP_Module6 NewDesignator=JP_Module5
+Change Component Designator: OldDesignator=JP_Module7 NewDesignator=JP_Module6
+Change Component Designator: OldDesignator=JP_Module8 NewDesignator=JP_Module7
+Change Component Designator: OldDesignator=JP_Module9 NewDesignator=JP_Module8
+Change Component Designator: OldDesignator=JP_Module10 NewDesignator=JP_Module19
+Change Component Designator: OldDesignator=JP_Module11 NewDesignator=JP_Module10
+Change Component Designator: OldDesignator=JP_Module12 NewDesignator=JP_Module11
+Change Component Designator: OldDesignator=JP_Module13 NewDesignator=JP_Module12
+Change Component Designator: OldDesignator=JP_Module14 NewDesignator=JP_Module13
+Added Component: Designator=JP_Module14(FPC0.5 2H-WS-16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP_Module15(FPC0.5 2H-WS-16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U12(TSSOP16)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC595PW-Q100,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U13(TSSOP16)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC595PW-Q100,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Module1_CS Pin=JP_Module1-10
+Added Pin To Net: NetName=Module2_CS Pin=JP_Module2-10
+Added Pin To Net: NetName=Module3_CS Pin=JP_Module3-10
+Added Pin To Net: NetName=Module4_CS Pin=JP_Module4-10
+Added Pin To Net: NetName=Module5_CS Pin=JP_Module5-10
+Added Pin To Net: NetName=Module6_CS Pin=JP_Module6-10
+Added Pin To Net: NetName=Module7_CS Pin=JP_Module7-10
+Added Pin To Net: NetName=Module8_CS Pin=JP_Module8-10
+Added Pin To Net: NetName=Module10_CS Pin=JP_Module10-10
+Added Pin To Net: NetName=Module11_CS Pin=JP_Module11-10
+Added Pin To Net: NetName=Module12_CS Pin=JP_Module12-10
+Added Pin To Net: NetName=Module13_CS Pin=JP_Module13-10
+Added Pin To Net: NetName=+5 Pin=JP_Module14-1
+Added Pin To Net: NetName=+5 Pin=JP_Module14-2
+Added Pin To Net: NetName=+5 Pin=JP_Module14-3
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-4
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-5
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-6
+Added Pin To Net: NetName=Module14_CS Pin=JP_Module14-10
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-11
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-12
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module14-13
+Added Pin To Net: NetName=+5 Pin=JP_Module14-14
+Added Pin To Net: NetName=+5 Pin=JP_Module14-15
+Added Pin To Net: NetName=+5 Pin=JP_Module14-16
+Added Pin To Net: NetName=+5 Pin=JP_Module15-1
+Added Pin To Net: NetName=+5 Pin=JP_Module15-2
+Added Pin To Net: NetName=+5 Pin=JP_Module15-3
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-4
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-5
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-6
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-11
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-12
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module15-13
+Added Pin To Net: NetName=+5 Pin=JP_Module15-14
+Added Pin To Net: NetName=+5 Pin=JP_Module15-15
+Added Pin To Net: NetName=+5 Pin=JP_Module15-16
+Added Pin To Net: NetName=Module9_CS Pin=JP_Module19-10
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R4-2
+Added Pin To Net: NetName=ESP32_3V3 Pin=R5-2
+Added Pin To Net: NetName=Module1_CS Pin=U12-1
+Added Pin To Net: NetName=Module2_CS Pin=U12-2
+Added Pin To Net: NetName=Module3_CS Pin=U12-3
+Added Pin To Net: NetName=Module4_CS Pin=U12-4
+Added Pin To Net: NetName=Module5_CS Pin=U12-5
+Added Pin To Net: NetName=Module6_CS Pin=U12-6
+Added Pin To Net: NetName=Module7_CS Pin=U12-7
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U12-8
+Added Pin To Net: NetName=ESP32_3V3 Pin=U12-16
+Added Pin To Net: NetName=Module9_CS Pin=U13-1
+Added Pin To Net: NetName=Module10_CS Pin=U13-2
+Added Pin To Net: NetName=Module11_CS Pin=U13-3
+Added Pin To Net: NetName=Module12_CS Pin=U13-4
+Added Pin To Net: NetName=Module13_CS Pin=U13-5
+Added Pin To Net: NetName=Module14_CS Pin=U13-6
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U13-8
+Added Pin To Net: NetName=Module8_CS Pin=U13-15
+Added Pin To Net: NetName=ESP32_3V3 Pin=U13-16
+Added Pin To Net: NetName=Module0_CS Pin=JP_Module0-10
+Added Pin To Net: NetName=Module0_CS Pin=U12-15
+Added Net: Name=Module0_CS
+Added Pin To Net: NetName=Module15_CS Pin=JP_Module15-10
+Added Pin To Net: NetName=Module15_CS Pin=U13-7
+Added Net: Name=Module15_CS
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U12-13
+Added Pin To Net: NetName=NetR4_1 Pin=U13-13
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U12-12
+Added Pin To Net: NetName=NetR5_1 Pin=U13-12
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetU12_9 Pin=U12-9
+Added Pin To Net: NetName=NetU12_9 Pin=U13-14
+Added Net: Name=NetU12_9
+Added Pin To Net: NetName=NetU12_10 Pin=U12-10
+Added Pin To Net: NetName=NetU12_10 Pin=U13-10
+Added Net: Name=NetU12_10
+Added Pin To Net: NetName=NetU12_11 Pin=U12-11
+Added Pin To Net: NetName=NetU12_11 Pin=U13-11
+Added Net: Name=NetU12_11
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module15 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module19 FPC1.0-16P
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component U12 74HC595PW-Q100,118
+Added Member To Class: ClassName=Sheet1 Member=Component U13 74HC595PW-Q100,118

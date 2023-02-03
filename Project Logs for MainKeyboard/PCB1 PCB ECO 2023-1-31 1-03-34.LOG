@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=JP_BATT-2
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=JP_BATT-3
+Removed Pin From Net: NetName=GND Pin=JP_BATT-4
+Removed Pin From Net: NetName=GND Pin=JP_BATT-5
+Removed Pin From Net: NetName=GND Pin=JP_BATT-6
+Change Component Footprint: Designator=JP_BATT Old Footprint=FPC0.5 2H-WS-6P New Footprint=MX 1.25-WS-2P
+Change Component Comment : Designator=JP_BATT Old Comment=FPC1.0-6P New Comment=HDR-1X2
+Change component parameters: Designator = "JP_BATT" ("JP_BATT"); Footprint = "FPC0.5 2H-WS-6P"; UniqueID = "\JEHNURRM" ("\JEHNURRM")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP_BATT-2
+Added Member To Class: ClassName=Sheet1 Member=Component R30 680K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 1M

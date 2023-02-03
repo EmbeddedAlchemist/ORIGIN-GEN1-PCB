@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Net: Name=NetU?_22
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Net: Name=NetU?_23
+Added Member To Class: ClassName=Sheet1 Member=Component U? PCF8575

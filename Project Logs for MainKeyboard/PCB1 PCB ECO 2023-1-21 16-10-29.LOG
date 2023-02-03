@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-5
+Added Pin To Net: NetName=BKUP_BATT+ Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U12-9

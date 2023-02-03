@@ -1,0 +1,4 @@
+Added Component: Designator=USBC?(USB-C-SMD_16P)
+Add component (AddParameter): Name = "联系卖家 免费技术支持"; Value = "封装库来自淘宝卖家ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component USBC? TYPE-C 2.0 -16P

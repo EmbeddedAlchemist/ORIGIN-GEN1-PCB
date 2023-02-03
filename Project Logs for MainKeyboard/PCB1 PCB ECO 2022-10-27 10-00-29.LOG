@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VBUS Pin=JP?-1
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=JP?-2
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=JP?-3
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=JP?-4
+Removed Pin From Net: NetName=SPI_BUS.Module5_CS Pin=JP?-5
+Removed Pin From Net: NetName=GND Pin=JP?-6
+Removed Member From Class: ClassName=Sheet1 Member=JP?
+Added Component: Designator=JP_Module5(FPC0.5 2H-WS-16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-1
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-2
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-3
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-4
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-5
+Added Pin To Net: NetName=VBUS Pin=JP_Module5-6
+Added Pin To Net: NetName=SPI_BUS.MOSI Pin=JP_Module5-7
+Added Pin To Net: NetName=SPI_BUS.SCLK Pin=JP_Module5-8
+Added Pin To Net: NetName=SPI_BUS.MISO Pin=JP_Module5-9
+Added Pin To Net: NetName=SPI_BUS.Module5_CS Pin=JP_Module5-10
+Added Pin To Net: NetName=GND Pin=JP_Module5-11
+Added Pin To Net: NetName=GND Pin=JP_Module5-12
+Added Pin To Net: NetName=GND Pin=JP_Module5-13
+Added Pin To Net: NetName=GND Pin=JP_Module5-14
+Added Pin To Net: NetName=GND Pin=JP_Module5-15
+Added Pin To Net: NetName=GND Pin=JP_Module5-16
+Added Member To Class: ClassName=Sheet1 Member=Component JP_Module5 FPC1.0-16P

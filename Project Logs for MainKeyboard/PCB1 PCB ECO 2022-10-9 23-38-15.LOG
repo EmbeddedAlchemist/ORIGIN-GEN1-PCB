@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KB_R0 Pin=U2-14
+Removed Pin From Net: NetName=KB_R1 Pin=U2-16
+Removed Pin From Net: NetName=KB_R3 Pin=U2-25
+Removed Pin From Net: NetName=KB_R4 Pin=U2-36
+Added Pin To Net: NetName=KB_R4 Pin=U2-14
+Added Pin To Net: NetName=KB_R3 Pin=U2-16
+Added Pin To Net: NetName=KB_R1 Pin=U2-25
+Added Pin To Net: NetName=KB_R0 Pin=U2-36

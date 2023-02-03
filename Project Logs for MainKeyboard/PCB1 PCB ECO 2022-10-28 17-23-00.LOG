@@ -1,0 +1,172 @@
+Removed Pin From Net: NetName=VBUS Pin=Q1-3
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=R8-1
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=100K
+Added Component: Designator=C12(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23-3N)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "50V 0.1A 0.4W 150MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23-3N)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "50V 0.1A 0.4W 150MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-3N)
+Add component (AddParameter): Name = "BOM名称"; Value = "低噪放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "50V 0.1A 0.4W 150MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOP8_M)
+Add component (AddParameter): Name = "参数"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=C13-1
+Added Pin To Net: NetName=BKUP_BATT+ Pin=C13-2
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=C14-1
+Added Pin To Net: NetName=VBUS Pin=JP_USB-1
+Added Pin To Net: NetName=VBUS Pin=JP_USB-2
+Added Pin To Net: NetName=VBUS Pin=JP_USB-3
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-5
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-6
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-7
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-10
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-11
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_USB-12
+Added Pin To Net: NetName=VBUS Pin=JP_USB-14
+Added Pin To Net: NetName=VBUS Pin=JP_USB-15
+Added Pin To Net: NetName=VBUS Pin=JP_USB-16
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=Q1-2
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q3-2
+Added Pin To Net: NetName=BKUP_BATT+ Pin=Q3-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q4-1
+Added Pin To Net: NetName=BKUP_BATT+ Pin=Q4-3
+Added Pin To Net: NetName=BKUP_BATT+ Pin=R8-2
+Added Pin To Net: NetName=VBUS Pin=R14-2
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R15-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R15-2
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R16-1
+Added Pin To Net: NetName=VBUS Pin=SW_0-3
+Added Pin To Net: NetName=VBUS Pin=SW_1-3
+Added Pin To Net: NetName=VBUS Pin=SW_2-3
+Added Pin To Net: NetName=VBUS Pin=SW_3-3
+Added Pin To Net: NetName=VBUS Pin=SW_4-3
+Added Pin To Net: NetName=VBUS Pin=SW_5-3
+Added Pin To Net: NetName=VBUS Pin=SW_6-3
+Added Pin To Net: NetName=VBUS Pin=SW_7-3
+Added Pin To Net: NetName=VBUS Pin=SW_8-3
+Added Pin To Net: NetName=VBUS Pin=SW_9-3
+Added Pin To Net: NetName=VBUS Pin=SW_'-3
+Added Pin To Net: NetName=VBUS Pin=SW_,-3
+Added Pin To Net: NetName=VBUS Pin=SW_--3
+Added Pin To Net: NetName=VBUS Pin=SW_.-3
+Added Pin To Net: NetName=VBUS Pin=SW_/-3
+Added Pin To Net: NetName=VBUS Pin=SW_;-3
+Added Pin To Net: NetName=VBUS Pin=SW_=-3
+Added Pin To Net: NetName=VBUS Pin=SW_[-3
+Added Pin To Net: NetName=VBUS Pin=SW_\-3
+Added Pin To Net: NetName=VBUS Pin=SW_]-3
+Added Pin To Net: NetName=VBUS Pin=SW_A-3
+Added Pin To Net: NetName=VBUS Pin=SW_B-3
+Added Pin To Net: NetName=VBUS Pin=SW_BACKSPACE-3
+Added Pin To Net: NetName=VBUS Pin=SW_C-3
+Added Pin To Net: NetName=VBUS Pin=SW_CAPSLOCK-3
+Added Pin To Net: NetName=VBUS Pin=SW_D-3
+Added Pin To Net: NetName=VBUS Pin=SW_DEL-3
+Added Pin To Net: NetName=VBUS Pin=SW_DOWN-3
+Added Pin To Net: NetName=VBUS Pin=SW_E-3
+Added Pin To Net: NetName=VBUS Pin=SW_ENTER-3
+Added Pin To Net: NetName=VBUS Pin=SW_ESC-3
+Added Pin To Net: NetName=VBUS Pin=SW_F-3
+Added Pin To Net: NetName=VBUS Pin=SW_FUNC-3
+Added Pin To Net: NetName=VBUS Pin=SW_G-3
+Added Pin To Net: NetName=VBUS Pin=SW_H-3
+Added Pin To Net: NetName=VBUS Pin=SW_I-3
+Added Pin To Net: NetName=VBUS Pin=SW_J-3
+Added Pin To Net: NetName=VBUS Pin=SW_K-3
+Added Pin To Net: NetName=VBUS Pin=SW_L-3
+Added Pin To Net: NetName=VBUS Pin=SW_LALT-3
+Added Pin To Net: NetName=VBUS Pin=SW_LCTRL-3
+Added Pin To Net: NetName=VBUS Pin=SW_LEFT-3
+Added Pin To Net: NetName=VBUS Pin=SW_LSHIFT-3
+Added Pin To Net: NetName=VBUS Pin=SW_LWIN-3
+Added Pin To Net: NetName=VBUS Pin=SW_M-3
+Added Pin To Net: NetName=VBUS Pin=SW_MENU-3
+Added Pin To Net: NetName=VBUS Pin=SW_N-3
+Added Pin To Net: NetName=VBUS Pin=SW_O-3
+Added Pin To Net: NetName=VBUS Pin=SW_P-3
+Added Pin To Net: NetName=VBUS Pin=SW_Q-3
+Added Pin To Net: NetName=VBUS Pin=SW_R-3
+Added Pin To Net: NetName=VBUS Pin=SW_RIGHT-3
+Added Pin To Net: NetName=VBUS Pin=SW_RSHIFT-3
+Added Pin To Net: NetName=VBUS Pin=SW_S-3
+Added Pin To Net: NetName=VBUS Pin=SW_SPACE-3
+Added Pin To Net: NetName=VBUS Pin=SW_T-3
+Added Pin To Net: NetName=VBUS Pin=SW_TAP-3
+Added Pin To Net: NetName=VBUS Pin=SW_U-3
+Added Pin To Net: NetName=VBUS Pin=SW_UP-3
+Added Pin To Net: NetName=VBUS Pin=SW_V-3
+Added Pin To Net: NetName=VBUS Pin=SW_W-3
+Added Pin To Net: NetName=VBUS Pin=SW_X-3
+Added Pin To Net: NetName=VBUS Pin=SW_Y-3
+Added Pin To Net: NetName=VBUS Pin=SW_Z-3
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=U5-2
+Added Pin To Net: NetName=BKUP_BATT+ Pin=U5-5
+Added Pin To Net: NetName=+3.3 Pin=U6-5
+Added Pin To Net: NetName=+3.3 Pin=U6-6
+Change Net Name : Old Net Name=VBUS New Net Name=+5
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U5-4
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U5-6
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U5-1
+Added Pin To Net: NetName=NetC14_2 Pin=U6-7
+Added Pin To Net: NetName=NetC14_2 Pin=U6-8
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R8-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U5-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R14-1
+Added Pin To Net: NetName=NetQ2_3 Pin=U3-8
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R16-2
+Added Pin To Net: NetName=NetQ4_2 Pin=U6-2
+Added Pin To Net: NetName=NetQ4_2 Pin=U6-4
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetU6_1 Pin=U6-1
+Added Pin To Net: NetName=NetU6_1 Pin=U6-3
+Added Net: Name=NetU6_1
+Added Member To Class: ClassName=Sheet1 Member=Component C12 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 2.2uF
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 S9014
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 S9014
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 S9014
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R15 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R16 100K
+Added Member To Class: ClassName=Sheet1 Member=Component U6 4953

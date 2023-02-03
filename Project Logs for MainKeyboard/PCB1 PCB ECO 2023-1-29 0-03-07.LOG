@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U15-3
+Added Component: Designator=SW_POWER(SW 3*4)
+Added Pin To Net: NetName=GND Pin=SW_POWER-2
+Added Pin To Net: NetName=NetSW_POWER_1 Pin=SW_POWER-1
+Added Net: Name=NetSW_POWER_1
+Added Pin To Net: NetName=NetU15_3 Pin=U15-3
+Added Net: Name=NetU15_3
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component SW_POWER SW_3x4

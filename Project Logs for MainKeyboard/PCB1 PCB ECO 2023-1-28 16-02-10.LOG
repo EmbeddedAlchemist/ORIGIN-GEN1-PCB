@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+5 Pin=D5-1
+Removed Pin From Net: NetName=NetC3_2 Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=+5 Pin=R29-2
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=T1-1
+Removed Pin From Net: NetName=+5 Pin=T1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=T1-4
+Removed Pin From Net: NetName=+5 Pin=T1-5
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=R29
+Removed Member From Class: ClassName=Sheet1 Member=T1
+Added Component: Designator=SW?(SOT23-5N)
+Added Component: Designator=SW?(SOT23-5N)
+Added Pin To Net: NetName=NetC3_2 Pin=SW?-1
+Added Pin To Net: NetName=NetC3_2 Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=+5 Pin=SW?-3
+Added Pin To Net: NetName=ESP32_3V3 Pin=SW?-3
+Added Pin To Net: NetName=NetC3_2 Pin=SW?-5
+Added Pin To Net: NetName=NetC3_2 Pin=SW?-5
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SGM2445A
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SGM2445A

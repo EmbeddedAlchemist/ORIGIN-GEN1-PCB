@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=JP_Module11 NewDesignator=JP_Module12
+Change Component Designator: OldDesignator=JP_Module12 NewDesignator=JP_Module14
+Change Component Designator: OldDesignator=JP_Module14 NewDesignator=JP_Module11
+Change Net Name : Old Net Name=Module11_CS New Net Name=Module12_CS
+Change Net Name : Old Net Name=Module12_CS New Net Name=Module14_CS
+Change Net Name : Old Net Name=Module14_CS New Net Name=Module11_CS

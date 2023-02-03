@@ -1,0 +1,48 @@
+Added Pin To Net: NetName=TOUCH0 Pin=U16-8
+Added Net: Name=TOUCH0
+Added Pin To Net: NetName=TOUCH1 Pin=U16-9
+Added Net: Name=TOUCH1
+Added Pin To Net: NetName=TOUCH2 Pin=U16-10
+Added Net: Name=TOUCH2
+Added Pin To Net: NetName=TOUCH3 Pin=U16-11
+Added Net: Name=TOUCH3
+Added Pin To Net: NetName=TOUCH4 Pin=U16-12
+Added Net: Name=TOUCH4
+Added Pin To Net: NetName=TOUCH5 Pin=U16-13
+Added Net: Name=TOUCH5
+Added Pin To Net: NetName=TOUCH6 Pin=U16-14
+Added Net: Name=TOUCH6
+Added Pin To Net: NetName=TOUCH7 Pin=U16-15
+Added Net: Name=TOUCH7
+Added Pin To Net: NetName=TOUCH8 Pin=U16-16
+Added Net: Name=TOUCH8
+Added Pin To Net: NetName=TOUCH9 Pin=U16-17
+Added Net: Name=TOUCH9
+Added Pin To Net: NetName=TOUCH10 Pin=U16-18
+Added Net: Name=TOUCH10
+Added Pin To Net: NetName=TOUCH11 Pin=U16-19
+Added Net: Name=TOUCH11
+Added Pin To Net: NetName=TOUCH12 Pin=U5-8
+Added Net: Name=TOUCH12
+Added Pin To Net: NetName=TOUCH13 Pin=U5-9
+Added Net: Name=TOUCH13
+Added Pin To Net: NetName=TOUCH14 Pin=U5-10
+Added Net: Name=TOUCH14
+Added Pin To Net: NetName=TOUCH15 Pin=U5-11
+Added Net: Name=TOUCH15
+Added Pin To Net: NetName=TOUCH16 Pin=U5-12
+Added Net: Name=TOUCH16
+Added Pin To Net: NetName=TOUCH17 Pin=U5-13
+Added Net: Name=TOUCH17
+Added Pin To Net: NetName=TOUCH18 Pin=U5-14
+Added Net: Name=TOUCH18
+Added Pin To Net: NetName=TOUCH19 Pin=U5-15
+Added Net: Name=TOUCH19
+Added Pin To Net: NetName=TOUCH20 Pin=U5-16
+Added Net: Name=TOUCH20
+Added Pin To Net: NetName=TOUCH21 Pin=U5-17
+Added Net: Name=TOUCH21
+Added Pin To Net: NetName=TOUCH22 Pin=U5-18
+Added Net: Name=TOUCH22
+Added Pin To Net: NetName=TOUCH23 Pin=U5-19
+Added Net: Name=TOUCH23

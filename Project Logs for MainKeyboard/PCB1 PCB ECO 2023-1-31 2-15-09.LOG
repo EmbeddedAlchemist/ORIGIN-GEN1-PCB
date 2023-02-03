@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=+5 Pin=U12-1
+Removed Pin From Net: NetName=GND Pin=U12-5
+Removed Pin From Net: NetName=BKUP_BATT+ Pin=U12-8
+Removed Pin From Net: NetName=GND Pin=U12-9
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Removed Member From Class: ClassName=Sheet1 Member=R29
+Removed Member From Class: ClassName=Sheet1 Member=U12
+Added Component: Designator=IC?(SOT23-5N)
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=BKUP_BATT+ Pin=IC?-3
+Added Pin To Net: NetName=+5 Pin=IC?-4
+Added Member To Class: ClassName=Sheet1 Member=Component IC? TP4055

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Sheet1 Member=JP?
+Added Component: Designator=U5(QFN20 4x4_N)
+Added Component: Designator=U16(QFN20 4x4_N)
+Added Pin To Net: NetName=ESP32_3V3 Pin=U5-20
+Added Pin To Net: NetName=ESP32_3V3 Pin=U16-20
+Added Member To Class: ClassName=Sheet1 Member=Component U5 MPR121
+Added Member To Class: ClassName=Sheet1 Member=Component U16 MPR121

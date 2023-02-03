@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=KB_C1 Pin=IC1-1
+Removed Pin From Net: NetName=KB_C2 Pin=IC1-2
+Removed Pin From Net: NetName=KB_C3 Pin=IC1-3
+Removed Pin From Net: NetName=KB_C4 Pin=IC1-4
+Removed Pin From Net: NetName=KB_C5 Pin=IC1-5
+Removed Pin From Net: NetName=KB_C6 Pin=IC1-6
+Removed Pin From Net: NetName=KB_C7 Pin=IC1-7
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=IC1-8
+Removed Pin From Net: NetName=KB_C0 Pin=IC1-15
+Removed Pin From Net: NetName=ESP32_3V3 Pin=IC1-16
+Removed Pin From Net: NetName=KB_C9 Pin=IC2-1
+Removed Pin From Net: NetName=KB_C10 Pin=IC2-2
+Removed Pin From Net: NetName=KB_C11 Pin=IC2-3
+Removed Pin From Net: NetName=KB_C12 Pin=IC2-4
+Removed Pin From Net: NetName=KB_C13 Pin=IC2-5
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=IC2-8
+Removed Pin From Net: NetName=KB_C8 Pin=IC2-15
+Removed Pin From Net: NetName=ESP32_3V3 Pin=IC2-16
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Removed Member From Class: ClassName=Sheet1 Member=IC2
+Add Component: Footprint Not Found 74HC595PW-Q100,118_NEX
+Add Component: Footprint Not Found 74HC595PW-Q100,118_NEX
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-5
+Add Pin To Net: Unknown Pin: Pin U11-8
+Add Pin To Net: Unknown Pin: Pin U11-15
+Add Pin To Net: Unknown Pin: Pin U11-16
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Net: Name=NetU2_9
+Added Net: Name=NetU2_10
+Added Net: Name=NetU2_11
+Add Class Member: Failed to add class member : Component U2 74HC595PW-Q100,118
+Add Class Member: Failed to add class member : Component U11 74HC595PW-Q100,118

@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C1-1
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C2-1
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C6-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C6-2
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C7-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C7-2
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C8-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C8-2
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=C9-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=C9-2
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=JP_STM32F0_DEBUG-5
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=R1-1
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=R2-1
+Removed Pin From Net: NetName=ESP32_BOOTOPINION Pin=R2-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R4-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R4-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R4-3
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R4-4
+Removed Pin From Net: NetName=KB_C13 Pin=R4-5
+Removed Pin From Net: NetName=KB_C12 Pin=R4-6
+Removed Pin From Net: NetName=KB_C11 Pin=R4-7
+Removed Pin From Net: NetName=KB_C10 Pin=R4-8
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R5-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R5-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R5-3
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R5-4
+Removed Pin From Net: NetName=KB_C9 Pin=R5-5
+Removed Pin From Net: NetName=KB_C8 Pin=R5-6
+Removed Pin From Net: NetName=KB_C7 Pin=R5-7
+Removed Pin From Net: NetName=KB_C6 Pin=R5-8
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R6-1
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R6-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R6-3
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R6-4
+Removed Pin From Net: NetName=KB_C5 Pin=R6-5
+Removed Pin From Net: NetName=KB_C4 Pin=R6-6
+Removed Pin From Net: NetName=KB_C3 Pin=R6-7
+Removed Pin From Net: NetName=KB_C2 Pin=R6-8
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R7-3
+Removed Pin From Net: NetName=ESP32_3V3 Pin=R7-4
+Removed Pin From Net: NetName=KB_C1 Pin=R7-5
+Removed Pin From Net: NetName=KB_C0 Pin=R7-6
+Removed Pin From Net: NetName=ESP32_BOOTOPINION Pin=SW_BOOTSELECT-2
+Removed Pin From Net: NetName=ESP32_3V3 Pin=SW_BOOTSELECT-4
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U2-1
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=U2-12
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U2-13
+Removed Pin From Net: NetName=KB_R2 Pin=U2-14
+Removed Pin From Net: NetName=KB_R1 Pin=U2-16
+Removed Pin From Net: NetName=NetU1_18 Pin=U2-20
+Removed Pin From Net: NetName=SPI_BUS.SCLK Pin=U2-21
+Removed Pin From Net: NetName=SPI_BUS.MISO Pin=U2-22
+Removed Pin From Net: NetName=SPI_BUS.MOSI Pin=U2-23
+Removed Pin From Net: NetName=KB_C0 Pin=U2-24
+Removed Pin From Net: NetName=KB_R0 Pin=U2-25
+Removed Pin From Net: NetName=KB_C1 Pin=U2-26
+Removed Pin From Net: NetName=KB_C2 Pin=U2-27
+Removed Pin From Net: NetName=KB_C3 Pin=U2-28
+Removed Pin From Net: NetName=KB_C4 Pin=U2-29
+Removed Pin From Net: NetName=KB_C5 Pin=U2-30
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=U2-31
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U2-32
+Removed Pin From Net: NetName=KB_C6 Pin=U2-33
+Removed Pin From Net: NetName=KB_C7 Pin=U2-34
+Removed Pin From Net: NetName=KB_C8 Pin=U2-35
+Removed Pin From Net: NetName=KB_R3 Pin=U2-36
+Removed Pin From Net: NetName=KB_C9 Pin=U2-37
+Removed Pin From Net: NetName=KB_C10 Pin=U2-38
+Removed Pin From Net: NetName=KB_C11 Pin=U2-39
+Removed Pin From Net: NetName=KB_C12 Pin=U2-40
+Removed Pin From Net: NetName=KB_C13 Pin=U2-41
+Removed Pin From Net: NetName=KB_R4 Pin=U2-57
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=U2-63
+Removed Pin From Net: NetName=ESP32_3V3 Pin=U2-64
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=X2-2
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=X2-4
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet1 Member=C8
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Sheet1 Member=JP_STM32F0_DEBUG
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=SW_BOOTSELECT
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=X2
+Added Component: Designator=IC1(SOP16_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "8位移位寄存器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOP16_N)
+Add component (AddParameter): Name = "BOM名称"; Value = "8位移位寄存器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KB_C1 Pin=IC1-1
+Added Pin To Net: NetName=KB_C2 Pin=IC1-2
+Added Pin To Net: NetName=KB_C3 Pin=IC1-3
+Added Pin To Net: NetName=KB_C4 Pin=IC1-4
+Added Pin To Net: NetName=KB_C5 Pin=IC1-5
+Added Pin To Net: NetName=KB_C6 Pin=IC1-6
+Added Pin To Net: NetName=KB_C7 Pin=IC1-7
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=IC1-8
+Added Pin To Net: NetName=KB_C0 Pin=IC1-15
+Added Pin To Net: NetName=ESP32_3V3 Pin=IC1-16
+Added Pin To Net: NetName=KB_C9 Pin=IC2-1
+Added Pin To Net: NetName=KB_C10 Pin=IC2-2
+Added Pin To Net: NetName=KB_C11 Pin=IC2-3
+Added Pin To Net: NetName=KB_C12 Pin=IC2-4
+Added Pin To Net: NetName=KB_C13 Pin=IC2-5
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=IC2-8
+Added Pin To Net: NetName=KB_C8 Pin=IC2-15
+Added Pin To Net: NetName=ESP32_3V3 Pin=IC2-16
+Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=R1-2
+Added Pin To Net: NetName=ESP32_3V3 Pin=R2-2
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_9 Pin=IC2-14
+Added Net: Name=NetIC1_9
+Added Pin To Net: NetName=NetIC1_10 Pin=IC1-10
+Added Pin To Net: NetName=NetIC1_10 Pin=IC2-10
+Added Net: Name=NetIC1_10
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_11 Pin=IC2-11
+Added Net: Name=NetIC1_11
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=IC2-12
+Added Pin To Net: NetName=NetIC1_12 Pin=R2-1
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=IC2-13
+Added Pin To Net: NetName=NetIC1_13 Pin=R1-1
+Added Net: Name=NetIC1_13
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 74HC595

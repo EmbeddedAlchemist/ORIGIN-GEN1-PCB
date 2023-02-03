@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=R8-1
+Removed Pin From Net: NetName=BKUP_BATT_OUT- Pin=R14-1
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=BKUP_BATT+ Pin=R14-1

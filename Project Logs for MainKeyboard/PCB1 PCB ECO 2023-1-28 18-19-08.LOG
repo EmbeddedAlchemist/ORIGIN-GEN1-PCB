@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Added Component: Designator=Q1(SOT23-3N)
+Add component (AddParameter): Name = "BOM名称"; Value = "N沟道场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603_L_NS)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=+5 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R11-2
+Added Pin To Net: NetName=NetQ1_3 Pin=SW4-4
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 SI2302
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
+Added Member To Class: ClassName=Sheet1 Member=Component R13 1M

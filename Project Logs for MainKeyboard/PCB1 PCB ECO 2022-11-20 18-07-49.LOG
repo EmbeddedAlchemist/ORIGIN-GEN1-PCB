@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ESP32_USB.USB_D_N Pin=R6-1
+Removed Pin From Net: NetName=ESP32_USB.USB_D_P Pin=R7-1
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Added Pin To Net: NetName=ESP32_USB.USB_D_N Pin=JP_USB-8
+Added Pin To Net: NetName=ESP32_USB.USB_D_P Pin=JP_USB-9

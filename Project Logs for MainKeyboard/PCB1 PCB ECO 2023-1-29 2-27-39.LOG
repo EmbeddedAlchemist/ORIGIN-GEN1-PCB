@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PCF8575_INT Pin=U1-16
+Added Pin To Net: NetName=PCF8575_INT Pin=U6-1
+Added Net: Name=PCF8575_INT
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M

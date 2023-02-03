@@ -1,0 +1,54 @@
+Added Component: Designator=JP_STM32F0_DEBUG(XH2.54-WI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW_STM32F0_BOOTSELECT(SW1.27 SMD-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP_STM32F0_DEBUG-5
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=KB_R0 Pin=U2-14
+Added Pin To Net: NetName=KB_R1 Pin=U2-16
+Added Pin To Net: NetName=KB_R2 Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=KB_R3 Pin=U2-36
+Added Pin To Net: NetName=KB_R4 Pin=U2-57
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Pin To Net: NetName=STM32F0_BOOT0 Pin=R?-2
+Added Pin To Net: NetName=STM32F0_BOOT0 Pin=R?-2
+Added Pin To Net: NetName=STM32F0_BOOT0 Pin=SW_STM32F0_BOOTSELECT-1
+Added Pin To Net: NetName=STM32F0_BOOT0 Pin=SW_STM32F0_BOOTSELECT-2
+Added Pin To Net: NetName=STM32F0_BOOT0 Pin=U2-60
+Added Net: Name=STM32F0_BOOT0
+Added Pin To Net: NetName=STM32F0_POWER Pin=SW_STM32F0_BOOTSELECT-3
+Added Pin To Net: NetName=STM32F0_POWER Pin=SW_STM32F0_BOOTSELECT-4
+Added Pin To Net: NetName=STM32F0_POWER Pin=U2-1
+Added Pin To Net: NetName=STM32F0_POWER Pin=U2-13
+Added Pin To Net: NetName=STM32F0_POWER Pin=U2-32
+Added Pin To Net: NetName=STM32F0_POWER Pin=U2-64
+Added Net: Name=STM32F0_POWER
+Added Pin To Net: NetName=STM32F0_SWCLK Pin=JP_STM32F0_DEBUG-4
+Added Pin To Net: NetName=STM32F0_SWCLK Pin=U2-49
+Added Net: Name=STM32F0_SWCLK
+Added Pin To Net: NetName=STM32F0_SWDIO Pin=JP_STM32F0_DEBUG-3
+Added Pin To Net: NetName=STM32F0_SWDIO Pin=U2-46
+Added Net: Name=STM32F0_SWDIO
+Added Pin To Net: NetName=STM32F0_USART1_RX Pin=JP_STM32F0_DEBUG-2
+Added Pin To Net: NetName=STM32F0_USART1_RX Pin=U2-43
+Added Net: Name=STM32F0_USART1_RX
+Added Pin To Net: NetName=STM32F0_USART1_TX Pin=JP_STM32F0_DEBUG-1
+Added Pin To Net: NetName=STM32F0_USART1_TX Pin=U2-42
+Added Net: Name=STM32F0_USART1_TX
+Added Member To Class: ClassName=Sheet1 Member=Component JP_STM32F0_DEBUG HDR-1X5
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component SW_STM32F0_BOOTSELECT DIP-SW-2P

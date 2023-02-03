@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=ESP32_BOOTOPINION Pin=U1-27
+Removed Pin From Net: NetName=ESP32_TCK Pin=U1-32
+Removed Pin From Net: NetName=ESP32_TDO Pin=U1-33
+Removed Pin From Net: NetName=ESP32_TDI Pin=U1-34
+Removed Pin From Net: NetName=ESP32_TMS Pin=U1-35
+Removed Pin From Net: NetName=ESP32_RX Pin=U1-36
+Removed Pin From Net: NetName=ESP32_TX Pin=U1-37
+Removed Member From Class: ClassName=Sheet1 Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=ESP32_BOOTOPINION Pin=U1-27
+Added Pin To Net: NetName=ESP32_TCK Pin=U1-32
+Added Pin To Net: NetName=ESP32_TDO Pin=U1-33
+Added Pin To Net: NetName=ESP32_TDI Pin=U1-34
+Added Pin To Net: NetName=ESP32_TMS Pin=U1-35
+Added Pin To Net: NetName=ESP32_RX Pin=U1-36
+Added Pin To Net: NetName=ESP32_TX Pin=U1-37
+Added Room: Name=Sheet1
