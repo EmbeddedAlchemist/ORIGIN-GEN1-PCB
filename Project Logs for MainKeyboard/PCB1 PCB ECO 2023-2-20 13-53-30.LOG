@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=I2C_BUS.SCL Pin=JP_I2C-2
+Added Pin To Net: NetName=I2C_BUS.SDA Pin=JP_I2C-3
+Added Pin To Net: NetName=I2C_INT Pin=JP_I2C-4
