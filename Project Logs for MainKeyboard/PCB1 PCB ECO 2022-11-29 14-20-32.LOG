@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=BKUP_BATT+ Pin=JP_BATT-1
-Removed Pin From Net: NetName=BKUP_BATT+ Pin=JP_BATT-2
-Removed Pin From Net: NetName=BKUP_BATT+ Pin=JP_BATT-3
-Removed Pin From Net: NetName=BKUP_BATT- Pin=JP_BATT-4
-Removed Pin From Net: NetName=BKUP_BATT- Pin=JP_BATT-5
-Removed Pin From Net: NetName=BKUP_BATT- Pin=JP_BATT-6
-Removed Member From Class: ClassName=Sheet1 Member=JP_BATT
-Added Pin To Net: NetName=BKUP_BATT+ Pin=JP?-1
-Added Pin To Net: NetName=BKUP_BATT- Pin=JP?-2

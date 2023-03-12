@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=NetR12_2 Pin=U5-14
-Added Pin To Net: NetName=NetU5_13 Pin=U5-13
-Added Pin To Net: NetName=NetU5_13 Pin=U12-3
-Added Net: Name=NetU5_13
-Added Pin To Net: NetName=NetU5_15 Pin=U5-15
-Added Pin To Net: NetName=NetU5_15 Pin=U15-3
-Added Net: Name=NetU5_15
-Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M

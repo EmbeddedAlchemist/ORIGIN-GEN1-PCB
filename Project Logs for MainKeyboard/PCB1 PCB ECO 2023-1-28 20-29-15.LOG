@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetR12_2 Pin=U15-3
-Removed Pin From Net: NetName=NetSW4_4 Pin=U15-4
-Removed Pin From Net: NetName=NetU12_4 Pin=U15-6
-Added Pin To Net: NetName=GND Pin=R11-1
-Added Pin To Net: NetName=NetR12_2 Pin=U15-1
-Added Pin To Net: NetName=NetU12_4 Pin=U15-4
-Added Pin To Net: NetName=NetSW4_4 Pin=U15-6
-Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M

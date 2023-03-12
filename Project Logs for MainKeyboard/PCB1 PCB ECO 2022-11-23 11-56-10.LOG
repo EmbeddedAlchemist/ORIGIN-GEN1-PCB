@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-4
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-5
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-6
-Added Pin To Net: NetName=SPI_BUS.MISO Pin=JP_Module9-9
-Added Pin To Net: NetName=Module9_CS Pin=JP_Module9-10
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-11
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-12
-Added Pin To Net: NetName=BKUP_BATT_OUT- Pin=JP_Module9-13
-Added Member To Class: ClassName=Sheet1 Member=Component JP_Module9 FPC1.0-16P

@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=SP1-1
-Removed Pin From Net: NetName=GND Pin=SP2-1
-Removed Pin From Net: NetName=GND Pin=SP3-1
-Removed Pin From Net: NetName=GND Pin=SP4-1
-Removed Member From Class: ClassName=Sheet1 Member=SP1
-Removed Member From Class: ClassName=Sheet1 Member=SP2
-Removed Member From Class: ClassName=Sheet1 Member=SP3
-Removed Member From Class: ClassName=Sheet1 Member=SP4
-Added Member To Class: ClassName=Sheet1 Member=Component R33 180K

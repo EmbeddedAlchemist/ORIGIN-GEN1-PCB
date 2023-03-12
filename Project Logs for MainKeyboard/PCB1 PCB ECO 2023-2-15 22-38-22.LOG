@@ -1,6 +1,0 @@
-Added Component: Designator=DZ1(MELF (LL41))
-Add component (AddParameter): Name = "BOM名称"; Value = "5.1V/1W稳压管"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=DZ1-1
-Added Pin To Net: NetName=+5 Pin=DZ1-2
-Added Member To Class: ClassName=Sheet1 Member=Component DZ1 1N4733

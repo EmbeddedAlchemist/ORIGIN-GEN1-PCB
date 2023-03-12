@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=BKUP_BATT+ Pin=T1-1
-Added Pin To Net: NetName=UART_BUS.RX Pin=U_AUTH-5
-Added Net: Name=UART_BUS.RX
-Added Pin To Net: NetName=UART_BUS.TX Pin=U_AUTH-6
-Added Net: Name=UART_BUS.TX

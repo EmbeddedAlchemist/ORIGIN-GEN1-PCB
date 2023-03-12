@@ -1,9 +1,0 @@
-Added Component: Designator=R33(R0603_L_NS)
-Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=R33-1
-Added Pin To Net: NetName=NetR33_2 Pin=R33-2
-Added Pin To Net: NetName=NetR33_2 Pin=U8-4
-Added Pin To Net: NetName=NetR33_2 Pin=U16-12
-Added Net: Name=NetR33_2
-Added Member To Class: ClassName=Sheet1 Member=Component R33 1M

@@ -1,7 +1,0 @@
-Added Component: Designator=U?(ESP32­S3­WROOM?U_EXP)
-Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-WROOM-1U-N16R8"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Mfr_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-S3-WROOM-1U-N16R8

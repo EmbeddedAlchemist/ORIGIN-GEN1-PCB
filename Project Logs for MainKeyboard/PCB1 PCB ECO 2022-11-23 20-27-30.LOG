@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=ESP32_3V3 Pin=Q1-4
-Removed Pin From Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=Q1-6
-Removed Pin From Net: NetName=ESP32_3V3 Pin=Q2-4
-Removed Pin From Net: NetName=VBUS_CONV_OUTPUT Pin=Q2-6
-Added Pin To Net: NetName=BKUP_BATT_CONV_OUTPUT Pin=Q1-4
-Added Pin To Net: NetName=ESP32_3V3 Pin=Q1-6
-Added Pin To Net: NetName=VBUS_CONV_OUTPUT Pin=Q2-4
-Added Pin To Net: NetName=ESP32_3V3 Pin=Q2-6

@@ -1,3 +1,0 @@
-Remove Pin=U?-5 From Net=BKUP_BATT+
-Remove Pin=U?-8 From Net=BKUP_BATT+
-Change Pin Designator/Name:  Old Designator=R33-1 Old Name=1 New Designator =1 New Name=1

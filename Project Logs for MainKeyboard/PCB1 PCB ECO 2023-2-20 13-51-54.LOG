@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=ESP32_3V3 Pin=JP_I2C-1
-Added Pin To Net: NetName=GND Pin=JP_I2C-1
-Added Pin To Net: NetName=GND Pin=JP_I2C-5
-Added Pin To Net: NetName=ESP32_3V3 Pin=JP_I2C-6
-Added Member To Class: ClassName=Sheet1 Member=Component JP_I2C CON-6P

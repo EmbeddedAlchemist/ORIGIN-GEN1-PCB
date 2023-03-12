@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=Sheet1 Member=DE1
-Added Pin To Net: NetName=I2C_BUS.SCL Pin=U1-18
-Added Pin To Net: NetName=I2C_BUS.SCL Pin=U5-22
-Added Pin To Net: NetName=I2C_BUS.SCL Pin=U6-22
-Added Net: Name=I2C_BUS.SCL
-Added Pin To Net: NetName=I2C_BUS.SDA Pin=U1-17
-Added Pin To Net: NetName=I2C_BUS.SDA Pin=U5-23
-Added Pin To Net: NetName=I2C_BUS.SDA Pin=U6-23
-Added Net: Name=I2C_BUS.SDA

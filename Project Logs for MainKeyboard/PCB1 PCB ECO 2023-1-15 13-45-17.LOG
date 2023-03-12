@@ -1,7 +1,0 @@
-Added Component: Designator=Q?(DFN1010B-6_NEX)
-Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PMDXB600UNELZ"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Mfr_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Sheet1 Member=Component Q? PMDXB600UNELZ

@@ -1,9 +1,0 @@
-Added Component: Designator=R34(RCA-8P4R-0402)
-Add component (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=ESP32_3V3 Pin=R34-1
-Added Pin To Net: NetName=ESP32_3V3 Pin=R34-2
-Added Pin To Net: NetName=ESP32_3V3 Pin=R34-3
-Added Pin To Net: NetName=I2C_INT Pin=R34-6
-Added Member To Class: ClassName=Sheet1 Member=Component R33 180K
-Added Member To Class: ClassName=Sheet1 Member=Component R34 103

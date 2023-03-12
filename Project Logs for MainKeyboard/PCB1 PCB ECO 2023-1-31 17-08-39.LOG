@@ -1,3 +1,0 @@
-Added Pin To Net: NetName=I2C_BUS.SCL Pin=R34-7
-Added Pin To Net: NetName=I2C_BUS.SDA Pin=R34-8
-Added Member To Class: ClassName=Sheet1 Member=Component R33 180K

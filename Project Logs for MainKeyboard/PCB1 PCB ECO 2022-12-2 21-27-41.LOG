@@ -1,6 +1,0 @@
-Added Component: Designator=E5(C_3528)
-Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=ESP32_3V3 Pin=E5-1
-Added Pin To Net: NetName=GND Pin=E5-2
-Added Member To Class: ClassName=Sheet1 Member=Component E5 22uF/25V

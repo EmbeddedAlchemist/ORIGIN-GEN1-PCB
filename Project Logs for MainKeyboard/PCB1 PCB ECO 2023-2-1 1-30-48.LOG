@@ -1,4 +1,0 @@
-Added Component: Designator=LED?(LED 2020-4PIN)
-Added Member To Class: ClassName=Sheet1 Member=Component LED? WS2812
-Added Member To Class: ClassName=Sheet1 Member=Component R33 180K
-Added Member To Class: ClassName=Sheet1 Member=Component SW_LUI (SW_LOS1A) SW

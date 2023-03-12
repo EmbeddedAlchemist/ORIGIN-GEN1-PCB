@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=UART_BUS.TX Pin=U1-22
-Added Pin To Net: NetName=UART_BUS.RX Pin=U1-23
-Added Member To Class: ClassName=Sheet1 Member=Component R1 1.15M
-Added Member To Class: ClassName=Sheet1 Member=Component R3 10K

@@ -1,3 +1,0 @@
-Change Component Footprint: Designator=U? Old Footprint=SOP16W_N New Footprint=SSOP24_N
-Change Component Comment : Designator=U? Old Comment=PCF8574 New Comment=PCF8575
-Added Member To Class: ClassName=Sheet1 Member=Component U? PCF8575

@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=+5 Pin=T1-1
-Added Pin To Net: NetName=BKUP_BATT+ Pin=T1-1
-Added Pin To Net: NetName=CONV_IN Pin=T1-6
-Added Pin To Net: NetName=CONV_IN Pin=T1-7
-Change Net Name : Old Net Name=CONV_IN New Net Name=NetC3_2

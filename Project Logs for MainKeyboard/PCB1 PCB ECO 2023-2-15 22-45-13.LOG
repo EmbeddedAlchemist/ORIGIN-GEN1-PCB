@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=DZ1 Old Footprint=MELF (LL41) New Footprint=MINI_MELF (LL34)
-Change Component Comment : Designator=DZ1 Old Comment=1N4733 New Comment=1N4625
-Change component parameters: Designator = "DZ1" ("DZ1"); Footprint = "MELF (LL41)"; UniqueID = "\KFSDMCKZ" ("\KFSDMCKZ")
-Change component parameters (AddParameter): Name = "BOM名称"; Value = "5.1V/0.5W稳压管"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"

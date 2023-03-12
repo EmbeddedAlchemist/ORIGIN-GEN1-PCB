@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CONV_IN Pin=Q1-4
-Removed Pin From Net: NetName=+5_IC Pin=Q1-6
-Added Pin To Net: NetName=+5_IC Pin=Q1-4
-Added Pin To Net: NetName=CONV_IN Pin=Q1-6
